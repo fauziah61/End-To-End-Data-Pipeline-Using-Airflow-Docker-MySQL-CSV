@@ -61,8 +61,8 @@ def ingest_csv(**context):
     
     file_path = get_file_path(ds)
 
-    # if not os.path.exists(file_path):
-    #     raise FileNotFoundError(f"File tidak ditemukan: {file_path}")
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"File tidak ditemukan: {file_path}")
 
     # Tunggu file selesai ditulis (size stabil)
     wait_for_stable_file(file_path, wait_time=5)
@@ -93,7 +93,8 @@ def ingest_csv(**context):
     """
     cursor.execute(create_table_sql)
     conn.commit()
-    # UPSERT SCD Type 1 Karena tidak ada requirement untuk menyimpan history, jadi cukup update data lama dengan data baru jika terjadi duplikasi customer_id
+    # UPSERT SCD Type 1 Karena tidak ada requirement untuk menyimpan history, 
+    # jadi cukup update data lama dengan data baru jika terjadi duplikasi customer_id
     insert_sql = f"""
     INSERT INTO `{TABLE_NAME}` (
         id, customer_id, address, city, province, created_at
