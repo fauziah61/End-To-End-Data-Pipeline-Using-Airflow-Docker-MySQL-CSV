@@ -1,0 +1,1001 @@
+id|@~customer_id|@~address|@~city|@~province|@~created_at
+1|@~919|@~Jalan Abdul Muis No. 67|@~Makassar|@~Kalimantan Timur|@~2026-03-24 15:09:53.717
+2|@~531|@~Gang Cempaka No. 53|@~Sibolga|@~Sulawesi Barat|@~2026-01-09 10:53:01.826
+3|@~745|@~Jl. Yos Sudarso No. 97|@~Ambon|@~Banten|@~2026-02-02 11:46:49.607
+4|@~939|@~Jalan Astana Anyar No. 3|@~Padang Sidempuan|@~Sulawesi Utara|@~2026-01-12 09:06:48.255
+5|@~166|@~Jalan Kiaracondong No. 331|@~Tangerang|@~Maluku Utara|@~2026-02-06 02:07:58.129
+6|@~710|@~Jalan Wonoayu No. 111|@~Kediri|@~Sulawesi Selatan|@~2026-02-06 02:44:05.194
+7|@~515|@~Jl. Gardujati No. 925|@~Cirebon|@~Sulawesi Utara|@~2026-03-25 15:01:48.617
+8|@~279|@~Gang Dr. Djunjunan No. 836|@~Manado|@~Nusa Tenggara Timur|@~2026-04-01 12:55:48.595
+9|@~593|@~Jl. KH Amin Jasuta No. 777|@~Sawahlunto|@~Jawa Timur|@~2026-01-14 09:03:38.315
+10|@~942|@~Jl. KH Amin Jasuta No. 39|@~Makassar|@~Riau|@~2026-01-21 18:30:47.143
+11|@~588|@~Jl. Stasiun Wonokromo No. 90|@~Salatiga|@~Jambi|@~2026-03-14 12:19:07.271
+12|@~752|@~Gang Ciumbuleuit No. 195|@~Banjarmasin|@~Sumatera Barat|@~2026-02-08 10:05:24.909
+13|@~18|@~Jalan M.H Thamrin No. 795|@~Solok|@~Sulawesi Tengah|@~2026-03-18 21:01:59.881
+14|@~986|@~Jl. R.E Martadinata No. 318|@~Bekasi|@~Jawa Tengah|@~2026-03-07 16:45:37.936
+15|@~379|@~Gang HOS. Cokroaminoto No. 571|@~Kendari|@~Sumatera Selatan|@~2026-01-01 17:42:10.361
+16|@~534|@~Jl. Dipenogoro No. 620|@~Surakarta|@~Sumatera Barat|@~2026-03-26 01:44:03.758
+17|@~918|@~Gang Ahmad Dahlan No. 4|@~Pangkalpinang|@~Bali|@~2026-03-21 20:58:15.801
+18|@~101|@~Jalan Kutai No. 12|@~Singkawang|@~Nusa Tenggara Timur|@~2026-02-22 13:35:08.810
+19|@~377|@~Gg. R.E Martadinata No. 7|@~Kota Administrasi Jakarta Utara|@~Sulawesi Selatan|@~2026-03-06 18:17:07.152
+20|@~458|@~Jalan Rumah Sakit No. 273|@~Samarinda|@~Jawa Timur|@~2026-03-15 01:20:13.714
+21|@~425|@~Gg. Soekarno Hatta No. 325|@~Semarang|@~Papua Barat|@~2026-03-20 00:55:56.695
+22|@~189|@~Jalan Wonoayu No. 37|@~Yogyakarta|@~Sulawesi Barat|@~2026-03-10 15:15:13.046
+23|@~353|@~Gang K.H. Wahid Hasyim No. 33|@~Pagaralam|@~Sulawesi Barat|@~2026-02-23 23:08:24.456
+24|@~214|@~Gg. Moch. Ramdan No. 355|@~Sawahlunto|@~Gorontalo|@~2026-01-25 23:10:10.035
+25|@~980|@~Jalan Raya Setiabudhi No. 87|@~Pangkalpinang|@~Sulawesi Barat|@~2026-03-10 00:28:56.807
+26|@~492|@~Gg. Rajiman No. 8|@~Yogyakarta|@~Nusa Tenggara Barat|@~2026-02-26 11:33:51.948
+27|@~485|@~Jalan Pelajar Pejuang No. 688|@~Dumai|@~DI Yogyakarta|@~2026-03-02 07:55:02.028
+28|@~816|@~Gg. Dipatiukur No. 224|@~Bukittinggi|@~Banten|@~2026-02-20 16:06:59.504
+29|@~864|@~Jalan Stasiun Wonokromo No. 99|@~Pekalongan|@~Maluku Utara|@~2026-03-30 06:56:02.549
+30|@~295|@~Gang Cikutra Timur No. 7|@~Manado|@~Kalimantan Selatan|@~2026-01-04 12:41:10.222
+31|@~519|@~Jalan Astana Anyar No. 5|@~Batam|@~Sumatera Barat|@~2026-01-19 17:57:57.207
+32|@~337|@~Gg. Jakarta No. 78|@~Solok|@~Kepulauan Bangka Belitung|@~2026-03-18 13:05:45.838
+33|@~968|@~Gang Rajawali Timur No. 68|@~Salatiga|@~Papua Barat|@~2026-02-11 01:19:57.150
+34|@~974|@~Gang Sentot Alibasa No. 5|@~Padang|@~Sumatera Utara|@~2026-03-17 18:33:38.352
+35|@~120|@~Jl. H.J Maemunah No. 2|@~Bandung|@~Sulawesi Tengah|@~2026-02-11 20:44:50.677
+36|@~749|@~Jalan Ciwastra No. 62|@~Kendari|@~Sumatera Selatan|@~2026-03-17 11:58:51.089
+37|@~137|@~Gg. Cihampelas No. 268|@~Kendari|@~Kepulauan Bangka Belitung|@~2026-01-12 20:25:36.251
+38|@~862|@~Gang Jend. Sudirman No. 108|@~Pangkalpinang|@~Maluku|@~2026-01-29 20:25:16.042
+39|@~276|@~Jalan Gedebage Selatan No. 419|@~Tual|@~Sulawesi Tenggara|@~2026-02-23 14:01:38.261
+40|@~970|@~Gang Merdeka No. 58|@~Kota Administrasi Jakarta Pusat|@~DKI Jakarta|@~2026-02-17 06:24:10.406
+41|@~502|@~Gg. Otto Iskandardinata No. 7|@~Tebingtinggi|@~Riau|@~2026-01-20 21:06:51.504
+42|@~271|@~Gang Tubagus Ismail No. 882|@~Surakarta|@~Sulawesi Selatan|@~2026-01-23 11:34:52.655
+43|@~824|@~Gang Ir. H. Djuanda No. 7|@~Dumai|@~Bali|@~2026-01-25 16:53:18.657
+44|@~501|@~Jalan S. Parman No. 1|@~Tanjungbalai|@~Riau|@~2026-01-14 08:51:56.443
+45|@~155|@~Gang Laswi No. 1|@~Tasikmalaya|@~Aceh|@~2026-03-06 11:29:10.115
+46|@~108|@~Gg. Moch. Toha No. 888|@~Semarang|@~Sulawesi Tenggara|@~2026-01-01 22:18:53.845
+47|@~842|@~Jalan Ir. H. Djuanda No. 0|@~Bitung|@~Maluku|@~2026-02-14 02:12:16.961
+48|@~999|@~Gang Ahmad Yani No. 603|@~Samarinda|@~Sulawesi Selatan|@~2026-03-24 14:58:18.893
+49|@~638|@~Jalan Rungkut Industri No. 354|@~Malang|@~Papua|@~2026-03-20 09:33:05.697
+50|@~52|@~Jl. Stasiun Wonokromo No. 745|@~Kota Administrasi Jakarta Timur|@~Kalimantan Utara|@~2026-02-23 06:15:55.987
+51|@~427|@~Jl. Tebet Barat Dalam No. 9|@~Bitung|@~Sumatera Barat|@~2026-02-02 17:59:48.821
+52|@~720|@~Jalan Cikutra Timur No. 8|@~Palopo|@~Jawa Timur|@~2026-01-20 21:36:09.480
+53|@~440|@~Gg. Cihampelas No. 82|@~Kota Administrasi Jakarta Pusat|@~Jawa Tengah|@~2026-01-22 11:38:53.713
+54|@~319|@~Gang Pelajar Pejuang No. 58|@~Cimahi|@~Sulawesi Tengah|@~2026-01-22 07:11:08.829
+55|@~911|@~Jalan Asia Afrika No. 8|@~Banjarmasin|@~Aceh|@~2026-01-11 01:22:09.685
+56|@~624|@~Gg. Raya Ujungberung No. 53|@~Semarang|@~Sumatera Selatan|@~2026-03-13 09:39:05.941
+57|@~322|@~Gang HOS. Cokroaminoto No. 85|@~Bandung|@~Papua Barat|@~2026-03-22 13:37:31.729
+58|@~902|@~Jl. Stasiun Wonokromo No. 129|@~Manado|@~Jawa Timur|@~2026-02-17 10:08:12.134
+59|@~69|@~Jl. Stasiun Wonokromo No. 51|@~Denpasar|@~Maluku Utara|@~2026-03-22 05:58:15.831
+60|@~34|@~Gg. Sentot Alibasa No. 2|@~Parepare|@~Kepulauan Riau|@~2026-03-12 09:00:32.979
+61|@~50|@~Jalan Surapati No. 713|@~Bitung|@~Sulawesi Tenggara|@~2026-03-27 09:30:57.381
+62|@~12|@~Gang Ahmad Dahlan No. 523|@~Balikpapan|@~Sulawesi Tengah|@~2026-01-13 13:51:58.860
+63|@~332|@~Gg. Cihampelas No. 12|@~Sorong|@~Jawa Barat|@~2026-01-17 02:45:09.034
+64|@~270|@~Gg. Sukabumi No. 39|@~Pekalongan|@~Kalimantan Barat|@~2026-01-27 03:50:38.153
+65|@~526|@~Jl. Kutisari Selatan No. 6|@~Tidore Kepulauan|@~Papua Barat|@~2026-01-27 11:54:40.138
+66|@~812|@~Jl. Cempaka No. 33|@~Banjarmasin|@~Sulawesi Selatan|@~2026-03-19 05:24:13.403
+67|@~645|@~Gang Sukabumi No. 868|@~Probolinggo|@~DKI Jakarta|@~2026-02-11 17:57:01.102
+68|@~994|@~Gang Sadang Serang No. 005|@~Kediri|@~Nusa Tenggara Barat|@~2026-03-25 01:37:30.007
+69|@~815|@~Jl. Cihampelas No. 505|@~Cirebon|@~Kalimantan Tengah|@~2026-01-01 15:52:15.107
+70|@~807|@~Gang Yos Sudarso No. 8|@~Cirebon|@~Sumatera Barat|@~2026-02-21 05:23:58.210
+71|@~313|@~Gg. Tebet Barat Dalam No. 56|@~Batam|@~Sulawesi Barat|@~2026-03-23 10:54:08.447
+72|@~855|@~Jalan Ciumbuleuit No. 29|@~Palopo|@~Bali|@~2026-03-20 11:49:25.088
+73|@~547|@~Jl. Cihampelas No. 6|@~Banjar|@~Jawa Tengah|@~2026-01-01 01:18:23.341
+74|@~740|@~Jl. Tubagus Ismail No. 55|@~Sabang|@~Kalimantan Tengah|@~2026-02-05 08:03:32.155
+75|@~651|@~Gang Pasteur No. 611|@~Langsa|@~Gorontalo|@~2026-01-29 21:17:28.789
+76|@~623|@~Jl. Kutisari Selatan No. 3|@~Bekasi|@~Riau|@~2026-03-28 07:53:30.454
+77|@~251|@~Gg. Yos Sudarso No. 33|@~Surabaya|@~Banten|@~2026-01-11 17:10:24.607
+78|@~102|@~Jl. Jamika No. 17|@~Jambi|@~Nusa Tenggara Timur|@~2026-01-03 02:19:41.254
+79|@~660|@~Jalan Pelajar Pejuang No. 560|@~Semarang|@~Sumatera Barat|@~2026-02-07 23:35:31.280
+80|@~438|@~Jalan Rajawali Timur No. 7|@~Mojokerto|@~Nusa Tenggara Timur|@~2026-02-22 09:37:26.362
+81|@~821|@~Jl. Ahmad Dahlan No. 029|@~Yogyakarta|@~Sulawesi Tengah|@~2026-03-04 10:25:02.306
+82|@~243|@~Gang Cikutra Barat No. 517|@~Sawahlunto|@~Maluku Utara|@~2026-02-26 02:25:09.451
+83|@~321|@~Jalan Bangka Raya No. 219|@~Pangkalpinang|@~Aceh|@~2026-01-17 03:27:30.455
+84|@~904|@~Gg. Lembong No. 06|@~Prabumulih|@~Jawa Tengah|@~2026-01-28 03:53:20.657
+85|@~698|@~Jl. Kutai No. 541|@~Pematangsiantar|@~Kalimantan Barat|@~2026-02-08 22:14:06.882
+86|@~536|@~Jl. Sukajadi No. 6|@~Bukittinggi|@~Kalimantan Barat|@~2026-03-13 11:55:42.372
+87|@~649|@~Jl. KH Amin Jasuta No. 912|@~Tanjungbalai|@~Jawa Barat|@~2026-01-28 02:59:45.594
+88|@~822|@~Jl. Jayawijaya No. 063|@~Kendari|@~Kalimantan Barat|@~2026-02-09 03:16:53.341
+89|@~416|@~Gg. M.H Thamrin No. 5|@~Bengkulu|@~Gorontalo|@~2026-02-10 19:25:06.283
+90|@~486|@~Jl. K.H. Wahid Hasyim No. 67|@~Padang|@~Sulawesi Barat|@~2026-02-18 03:02:12.047
+91|@~469|@~Jalan Ciwastra No. 98|@~Palembang|@~Jawa Timur|@~2026-01-18 09:55:00.763
+92|@~703|@~Jalan Ciwastra No. 21|@~Mataram|@~Kepulauan Bangka Belitung|@~2026-01-14 17:43:18.985
+93|@~730|@~Gg. Kiaracondong No. 007|@~Pekalongan|@~Kalimantan Barat|@~2026-03-24 15:03:11.895
+94|@~810|@~Jalan Siliwangi No. 439|@~Jambi|@~DI Yogyakarta|@~2026-03-10 21:59:07.293
+95|@~333|@~Jalan Sadang Serang No. 230|@~Tomohon|@~Maluku Utara|@~2026-02-13 16:55:44.955
+96|@~533|@~Jl. Sukabumi No. 56|@~Bitung|@~DKI Jakarta|@~2026-01-05 13:15:36.145
+97|@~62|@~Jl. Kutisari Selatan No. 76|@~Langsa|@~Sulawesi Tenggara|@~2026-01-15 03:19:23.544
+98|@~926|@~Jalan Rajiman No. 564|@~Palembang|@~Lampung|@~2026-02-02 11:17:17.875
+99|@~61|@~Jl. Pacuan Kuda No. 5|@~Prabumulih|@~Gorontalo|@~2026-01-26 22:43:36.099
+100|@~967|@~Gg. Merdeka No. 5|@~Kotamobagu|@~Bengkulu|@~2026-03-18 00:03:27.289
+101|@~175|@~Jl. Antapani Lama No. 54|@~Kota Administrasi Jakarta Timur|@~DI Yogyakarta|@~2026-01-18 06:56:20.504
+102|@~578|@~Jalan W.R. Supratman No. 0|@~Batam|@~Aceh|@~2026-03-02 12:06:25.040
+103|@~641|@~Gg. Cikapayang No. 299|@~Kupang|@~Sulawesi Selatan|@~2026-01-23 04:44:22.196
+104|@~217|@~Jl. Cihampelas No. 82|@~Makassar|@~Sulawesi Utara|@~2026-03-09 13:23:02.416
+105|@~674|@~Gang R.E Martadinata No. 09|@~Padangpanjang|@~Kalimantan Selatan|@~2026-03-07 08:34:12.413
+106|@~614|@~Gg. Dipatiukur No. 8|@~Bengkulu|@~Maluku Utara|@~2026-02-06 14:16:26.354
+107|@~869|@~Jalan Rawamangun No. 4|@~Pontianak|@~Sulawesi Barat|@~2026-03-22 13:26:44.467
+108|@~107|@~Gang Sukabumi No. 63|@~Kota Administrasi Jakarta Pusat|@~Riau|@~2026-03-20 11:32:23.760
+109|@~428|@~Gg. Setiabudhi No. 0|@~Banda Aceh|@~Nusa Tenggara Barat|@~2026-02-28 23:11:51.373
+110|@~693|@~Gg. Ciwastra No. 8|@~Magelang|@~Papua Barat|@~2026-03-26 10:05:30.969
+111|@~161|@~Jalan PHH. Mustofa No. 0|@~Mojokerto|@~Sumatera Barat|@~2026-03-10 16:34:44.531
+112|@~106|@~Jl. Veteran No. 87|@~Palembang|@~Sulawesi Barat|@~2026-01-29 06:56:49.425
+113|@~209|@~Jl. Cikutra Timur No. 737|@~Kediri|@~Kalimantan Timur|@~2026-03-25 10:55:20.465
+114|@~997|@~Gg. Yos Sudarso No. 50|@~Singkawang|@~Bengkulu|@~2026-02-02 17:58:09.643
+115|@~483|@~Jalan S. Parman No. 93|@~Pariaman|@~Kalimantan Selatan|@~2026-01-03 12:04:30.035
+116|@~481|@~Gang Ahmad Dahlan No. 82|@~Tanjungpinang|@~Sulawesi Utara|@~2026-03-28 12:54:27.630
+117|@~9|@~Jl. Jend. Sudirman No. 29|@~Depok|@~Bengkulu|@~2026-03-11 23:13:59.351
+118|@~956|@~Jl. S. Parman No. 9|@~Pematangsiantar|@~Kalimantan Barat|@~2026-01-09 11:33:33.407
+119|@~872|@~Jl. Cikutra Timur No. 578|@~Kendari|@~Kepulauan Bangka Belitung|@~2026-03-25 19:12:18.066
+120|@~190|@~Jl. Cihampelas No. 759|@~Bengkulu|@~Sulawesi Utara|@~2026-03-17 18:35:09.186
+121|@~431|@~Gang Cihampelas No. 0|@~Dumai|@~Riau|@~2026-01-24 21:04:56.248
+122|@~607|@~Gg. Merdeka No. 84|@~Solok|@~Gorontalo|@~2026-01-07 23:38:53.901
+123|@~925|@~Jl. Merdeka No. 3|@~Banjar|@~Aceh|@~2026-03-17 02:51:31.660
+124|@~177|@~Gg. R.E Martadinata No. 452|@~Blitar|@~Papua Barat|@~2026-03-25 04:46:53.557
+125|@~785|@~Gang Cikapayang No. 721|@~Singkawang|@~DI Yogyakarta|@~2026-02-02 22:10:45.330
+126|@~879|@~Gang Surapati No. 57|@~Tanjungpinang|@~Gorontalo|@~2026-03-19 09:12:46.825
+127|@~916|@~Gg. Ronggowarsito No. 3|@~Banjarbaru|@~Sulawesi Tengah|@~2026-01-02 14:04:49.907
+128|@~938|@~Jl. Rumah Sakit No. 14|@~Kota Administrasi Jakarta Selatan|@~Jambi|@~2026-04-01 11:05:56.902
+129|@~602|@~Gang Jend. Sudirman No. 91|@~Cilegon|@~Bali|@~2026-01-26 04:53:37.588
+130|@~274|@~Gang Ciwastra No. 8|@~Kendari|@~Jawa Barat|@~2026-02-05 21:38:58.082
+131|@~24|@~Gang Tebet Barat Dalam No. 409|@~Sawahlunto|@~Sulawesi Utara|@~2026-03-09 17:49:13.994
+132|@~981|@~Gang Waringin No. 19|@~Langsa|@~Nusa Tenggara Barat|@~2026-02-05 17:23:25.573
+133|@~571|@~Jalan M.H Thamrin No. 664|@~Pangkalpinang|@~Sumatera Selatan|@~2026-01-13 08:13:21.545
+134|@~630|@~Gg. Kendalsari No. 46|@~Kota Administrasi Jakarta Selatan|@~Papua Barat|@~2026-03-07 02:34:59.670
+135|@~805|@~Gang Astana Anyar No. 079|@~Subulussalam|@~Sumatera Barat|@~2026-01-08 16:06:18.244
+136|@~449|@~Gang BKR No. 540|@~Palembang|@~Jambi|@~2026-03-10 12:18:44.108
+137|@~713|@~Gg. Laswi No. 3|@~Metro|@~Jawa Timur|@~2026-01-26 08:05:14.791
+138|@~545|@~Gang Jamika No. 98|@~Tebingtinggi|@~Bengkulu|@~2026-03-05 10:18:58.020
+139|@~472|@~Gang Surapati No. 45|@~Banjar|@~Jawa Timur|@~2026-01-16 10:05:04.703
+140|@~654|@~Gg. Indragiri No. 806|@~Metro|@~Sulawesi Selatan|@~2026-03-25 12:17:26.624
+141|@~941|@~Jl. Yos Sudarso No. 729|@~Banjarbaru|@~Kepulauan Bangka Belitung|@~2026-03-20 23:29:39.462
+142|@~511|@~Jl. Astana Anyar No. 053|@~Blitar|@~Sumatera Barat|@~2026-02-25 10:53:02.020
+143|@~830|@~Jalan R.E Martadinata No. 83|@~Singkawang|@~Lampung|@~2026-02-12 20:12:54.450
+144|@~874|@~Jalan Kebonjati No. 709|@~Solok|@~DKI Jakarta|@~2026-03-18 11:22:49.068
+145|@~829|@~Gg. Dipenogoro No. 900|@~Mataram|@~Jambi|@~2026-03-22 10:39:29.966
+146|@~320|@~Gang Gegerkalong Hilir No. 4|@~Palopo|@~DKI Jakarta|@~2026-03-27 20:58:19.162
+147|@~764|@~Jl. BKR No. 0|@~Tanjungbalai|@~Sulawesi Tengah|@~2026-02-03 06:56:29.948
+148|@~411|@~Jl. Yos Sudarso No. 10|@~Probolinggo|@~Kalimantan Utara|@~2026-01-04 08:46:37.800
+149|@~409|@~Gg. Raya Ujungberung No. 4|@~Lhokseumawe|@~Riau|@~2026-03-02 04:42:35.673
+150|@~450|@~Jalan Ahmad Dahlan No. 52|@~Tasikmalaya|@~Banten|@~2026-01-26 14:08:31.567
+151|@~825|@~Gang Ahmad Yani No. 39|@~Tomohon|@~Jambi|@~2026-01-02 19:27:59.020
+152|@~865|@~Jalan Merdeka No. 92|@~Tanjungpinang|@~Kepulauan Riau|@~2026-01-24 13:44:55.418
+153|@~424|@~Jalan Sukabumi No. 616|@~Tangerang Selatan|@~Bali|@~2026-01-29 00:19:56.948
+154|@~125|@~Gang Rajiman No. 4|@~Probolinggo|@~Papua Barat|@~2026-03-09 11:32:52.725
+155|@~146|@~Jl. Cihampelas No. 9|@~Semarang|@~Jambi|@~2026-04-01 11:58:29.517
+156|@~99|@~Gg. Pasteur No. 7|@~Dumai|@~Kepulauan Bangka Belitung|@~2026-02-23 05:43:20.526
+157|@~834|@~Gang Tebet Barat Dalam No. 655|@~Cilegon|@~Kalimantan Selatan|@~2026-03-20 21:37:58.266
+158|@~311|@~Jl. Gegerkalong Hilir No. 8|@~Payakumbuh|@~Aceh|@~2026-01-25 14:49:54.449
+159|@~898|@~Gg. Pasteur No. 892|@~Parepare|@~Papua|@~2026-03-26 12:07:50.477
+160|@~413|@~Jalan Sukajadi No. 4|@~Bogor|@~Sumatera Utara|@~2026-03-20 13:04:21.202
+161|@~804|@~Jalan Kendalsari No. 288|@~Bontang|@~Kalimantan Timur|@~2026-01-29 17:34:27.229
+162|@~114|@~Gang Erlangga No. 84|@~Kupang|@~Kalimantan Tengah|@~2026-03-04 03:55:05.659
+163|@~549|@~Gang Pasteur No. 8|@~Tomohon|@~Kalimantan Timur|@~2026-03-11 15:41:32.033
+164|@~381|@~Jalan Bangka Raya No. 7|@~Purwokerto|@~Jawa Timur|@~2026-02-16 12:44:41.566
+165|@~19|@~Jl. Laswi No. 0|@~Surabaya|@~Jawa Timur|@~2026-01-09 19:26:46.971
+166|@~390|@~Gang Raya Setiabudhi No. 6|@~Ternate|@~Sumatera Utara|@~2026-02-26 07:11:51.804
+167|@~751|@~Jl. Gegerkalong Hilir No. 36|@~Palu|@~Kalimantan Tengah|@~2026-03-15 11:19:05.404
+168|@~726|@~Gg. Cihampelas No. 299|@~Lhokseumawe|@~Jambi|@~2026-02-23 09:47:17.024
+169|@~46|@~Gg. Jend. A. Yani No. 303|@~Lhokseumawe|@~Papua Barat|@~2026-01-20 19:52:07.559
+170|@~156|@~Gg. Erlangga No. 66|@~Tual|@~Sulawesi Tenggara|@~2026-02-20 23:47:13.238
+171|@~706|@~Jalan Sukabumi No. 1|@~Bogor|@~DI Yogyakarta|@~2026-03-25 09:03:11.603
+172|@~756|@~Jalan M.T Haryono No. 68|@~Tanjungpinang|@~Sumatera Barat|@~2026-03-07 12:55:20.586
+173|@~76|@~Jalan Indragiri No. 205|@~Tual|@~DKI Jakarta|@~2026-01-06 22:11:53.376
+174|@~712|@~Gang Rajawali Timur No. 04|@~Sorong|@~DKI Jakarta|@~2026-03-17 15:05:44.817
+175|@~367|@~Gg. Tubagus Ismail No. 90|@~Tomohon|@~Jambi|@~2026-01-31 13:03:07.169
+176|@~457|@~Jl. Sadang Serang No. 03|@~Palopo|@~Gorontalo|@~2026-02-25 10:28:21.469
+177|@~793|@~Jalan Monginsidi No. 527|@~Pematangsiantar|@~Sumatera Selatan|@~2026-02-01 02:40:04.679
+178|@~725|@~Jalan Cikutra Barat No. 057|@~Pangkalpinang|@~Nusa Tenggara Barat|@~2026-02-08 22:20:48.720
+179|@~946|@~Gang Moch. Toha No. 0|@~Subulussalam|@~Kalimantan Selatan|@~2026-01-02 02:46:27.286
+180|@~167|@~Gang Ir. H. Djuanda No. 2|@~Jambi|@~Papua Barat|@~2026-02-25 15:41:06.010
+181|@~206|@~Gg. Gardujati No. 573|@~Cimahi|@~Kalimantan Timur|@~2026-02-04 14:49:59.911
+182|@~33|@~Gang Jayawijaya No. 63|@~Tegal|@~Lampung|@~2026-01-08 12:46:03.615
+183|@~261|@~Gang Kiaracondong No. 064|@~Parepare|@~Sulawesi Utara|@~2026-01-11 04:14:32.130
+184|@~811|@~Jalan Cihampelas No. 202|@~Kotamobagu|@~Sumatera Barat|@~2026-01-01 16:21:44.807
+185|@~837|@~Jl. Monginsidi No. 6|@~Tual|@~Sumatera Barat|@~2026-01-07 14:45:36.661
+186|@~262|@~Gang Jamika No. 90|@~Batu|@~Sumatera Utara|@~2026-02-27 12:16:16.054
+187|@~498|@~Gang Kiaracondong No. 400|@~Padang Sidempuan|@~DI Yogyakarta|@~2026-02-18 19:46:11.796
+188|@~42|@~Gang Antapani Lama No. 535|@~Sawahlunto|@~Aceh|@~2026-02-08 13:30:44.706
+189|@~880|@~Jalan Jayawijaya No. 181|@~Tebingtinggi|@~Gorontalo|@~2026-02-14 02:38:46.292
+190|@~300|@~Gg. Raya Setiabudhi No. 135|@~Kota Administrasi Jakarta Timur|@~Sulawesi Tenggara|@~2026-01-24 19:33:16.143
+191|@~181|@~Gg. Pasirkoja No. 2|@~Magelang|@~Sumatera Barat|@~2026-02-01 19:33:26.781
+192|@~561|@~Jl. Joyoboyo No. 7|@~Bandung|@~Jambi|@~2026-03-13 10:40:32.036
+193|@~714|@~Gg. S. Parman No. 8|@~Pasuruan|@~Maluku|@~2026-01-29 21:44:45.391
+194|@~523|@~Gang Raya Setiabudhi No. 28|@~Manado|@~Sulawesi Tengah|@~2026-02-16 01:47:37.654
+195|@~803|@~Jl. Pelajar Pejuang No. 217|@~Denpasar|@~Nusa Tenggara Timur|@~2026-01-05 08:38:40.941
+196|@~678|@~Jl. Sadang Serang No. 243|@~Cimahi|@~Sumatera Selatan|@~2026-02-08 09:28:24.141
+197|@~704|@~Jl. Moch. Ramdan No. 873|@~Bima|@~Sulawesi Utara|@~2026-02-15 08:35:45.065
+198|@~576|@~Jalan HOS. Cokroaminoto No. 39|@~Pekanbaru|@~Lampung|@~2026-03-17 08:31:14.470
+199|@~45|@~Jalan Dipenogoro No. 07|@~Bekasi|@~Sulawesi Utara|@~2026-02-01 15:08:54.965
+200|@~742|@~Gg. Yos Sudarso No. 19|@~Bima|@~Kepulauan Riau|@~2026-03-12 12:40:42.105
+201|@~780|@~Gg. Sukajadi No. 984|@~Padangpanjang|@~Lampung|@~2026-02-10 19:56:28.743
+202|@~542|@~Jl. Pacuan Kuda No. 805|@~Palangkaraya|@~Maluku Utara|@~2026-01-11 09:47:30.710
+203|@~442|@~Jalan Jend. A. Yani No. 111|@~Makassar|@~Nusa Tenggara Barat|@~2026-01-23 17:56:10.840
+204|@~769|@~Jalan Raya Ujungberung No. 5|@~Bekasi|@~Kalimantan Barat|@~2026-03-21 15:49:51.098
+205|@~883|@~Jl. Astana Anyar No. 106|@~Medan|@~DI Yogyakarta|@~2026-02-21 19:33:23.692
+206|@~850|@~Gang KH Amin Jasuta No. 366|@~Magelang|@~Kepulauan Riau|@~2026-02-12 06:25:09.790
+207|@~444|@~Jl. Sentot Alibasa No. 64|@~Sawahlunto|@~Kalimantan Barat|@~2026-01-16 08:17:44.478
+208|@~91|@~Gg. Monginsidi No. 049|@~Bau-Bau|@~Jambi|@~2026-02-10 17:19:08.315
+209|@~238|@~Gang Pasir Koja No. 3|@~Lhokseumawe|@~Lampung|@~2026-03-31 04:38:18.160
+210|@~233|@~Jl. Cikutra Timur No. 8|@~Palangkaraya|@~Bengkulu|@~2026-03-07 07:49:35.351
+211|@~254|@~Jl. S. Parman No. 0|@~Pekanbaru|@~Maluku Utara|@~2026-03-16 06:20:46.895
+212|@~592|@~Gg. K.H. Wahid Hasyim No. 6|@~Serang|@~Papua|@~2026-03-08 15:27:02.266
+213|@~456|@~Jl. Jamika No. 23|@~Madiun|@~Jawa Timur|@~2026-01-26 15:57:26.533
+214|@~253|@~Jl. Cihampelas No. 20|@~Palu|@~Papua|@~2026-01-02 16:24:31.945
+215|@~605|@~Gang Raya Ujungberung No. 570|@~Malang|@~Papua Barat|@~2026-03-19 16:31:24.181
+216|@~927|@~Jl. Tebet Barat Dalam No. 918|@~Jambi|@~Aceh|@~2026-02-28 08:19:25.760
+217|@~973|@~Jl. Pelajar Pejuang No. 85|@~Sorong|@~Papua Barat|@~2026-02-27 07:08:51.995
+218|@~212|@~Jl. Laswi No. 60|@~Parepare|@~Nusa Tenggara Timur|@~2026-01-26 02:30:59.069
+219|@~512|@~Gg. Setiabudhi No. 90|@~Gorontalo|@~Banten|@~2026-01-02 15:09:54.219
+220|@~609|@~Gg. Kendalsari No. 89|@~Pontianak|@~Papua Barat|@~2026-02-21 17:52:56.005
+221|@~112|@~Jl. Merdeka No. 17|@~Cilegon|@~Banten|@~2026-02-04 03:05:26.452
+222|@~430|@~Jl. Surapati No. 454|@~Kendari|@~Kalimantan Utara|@~2026-01-15 14:54:14.795
+223|@~868|@~Jl. Kapten Muslihat No. 92|@~Kupang|@~Bengkulu|@~2026-02-28 09:18:24.704
+224|@~694|@~Jl. Pasirkoja No. 702|@~Kediri|@~Nusa Tenggara Timur|@~2026-02-22 23:52:07.465
+225|@~104|@~Jl. KH Amin Jasuta No. 11|@~Makassar|@~Kalimantan Tengah|@~2026-02-19 05:40:20.755
+226|@~621|@~Gg. Cikapayang No. 96|@~Padang Sidempuan|@~Gorontalo|@~2026-01-25 04:59:38.134
+227|@~676|@~Jalan Ciwastra No. 61|@~Kendari|@~Jambi|@~2026-03-01 06:05:50.648
+228|@~7|@~Gang Raya Ujungberung No. 053|@~Pagaralam|@~Nusa Tenggara Timur|@~2026-01-08 20:53:35.105
+229|@~665|@~Gang Jend. A. Yani No. 325|@~Palopo|@~Kalimantan Selatan|@~2026-02-28 07:37:00.290
+230|@~15|@~Jl. Stasiun Wonokromo No. 327|@~Binjai|@~Jawa Barat|@~2026-03-06 19:32:21.796
+231|@~293|@~Jalan Suniaraja No. 085|@~Sabang|@~Gorontalo|@~2026-02-19 06:13:11.402
+232|@~901|@~Jalan Jend. Sudirman No. 6|@~Padangpanjang|@~Kepulauan Riau|@~2026-02-22 14:33:22.270
+233|@~121|@~Gg. Joyoboyo No. 2|@~Banjarbaru|@~Lampung|@~2026-02-04 03:58:42.361
+234|@~796|@~Gang Jamika No. 7|@~Bitung|@~Gorontalo|@~2026-02-13 16:29:45.580
+235|@~595|@~Jalan Cikutra Barat No. 5|@~Tual|@~Sulawesi Selatan|@~2026-03-15 01:50:17.475
+236|@~818|@~Gg. KH Amin Jasuta No. 6|@~Padang Sidempuan|@~Jawa Barat|@~2026-01-07 17:32:09.658
+237|@~670|@~Gg. Jayawijaya No. 573|@~Palangkaraya|@~Sulawesi Utara|@~2026-02-24 19:52:28.209
+238|@~950|@~Gang Ahmad Dahlan No. 358|@~Batam|@~Kalimantan Utara|@~2026-03-03 06:45:12.396
+239|@~207|@~Gang Jamika No. 625|@~Dumai|@~Sulawesi Selatan|@~2026-03-05 08:35:13.345
+240|@~886|@~Jalan Kutai No. 17|@~Lubuklinggau|@~Sumatera Barat|@~2026-02-10 12:20:02.850
+241|@~336|@~Jalan M.T Haryono No. 2|@~Bengkulu|@~Sulawesi Barat|@~2026-01-09 23:00:27.010
+242|@~227|@~Jl. Merdeka No. 0|@~Manado|@~Sulawesi Tengah|@~2026-02-19 21:26:15.094
+243|@~761|@~Gg. Veteran No. 833|@~Lubuklinggau|@~Riau|@~2026-02-18 14:29:29.011
+244|@~961|@~Gang Suryakencana No. 23|@~Pasuruan|@~Kepulauan Riau|@~2026-03-07 20:09:15.571
+245|@~350|@~Jalan HOS. Cokroaminoto No. 080|@~Palopo|@~DKI Jakarta|@~2026-02-15 06:27:55.544
+246|@~566|@~Jalan Dr. Djunjunan No. 8|@~Mojokerto|@~Sulawesi Barat|@~2026-01-19 11:40:03.265
+247|@~675|@~Gang Stasiun Wonokromo No. 88|@~Lhokseumawe|@~Kalimantan Selatan|@~2026-03-02 09:08:39.256
+248|@~632|@~Gang Tebet Barat Dalam No. 384|@~Prabumulih|@~Sumatera Utara|@~2026-02-09 01:54:11.591
+249|@~899|@~Gang Cikapayang No. 558|@~Pontianak|@~Nusa Tenggara Barat|@~2026-03-12 01:10:11.429
+250|@~160|@~Jl. Veteran No. 17|@~Blitar|@~Lampung|@~2026-01-05 13:09:35.190
+251|@~912|@~Jl. M.T Haryono No. 44|@~Tomohon|@~Lampung|@~2026-01-29 17:27:16.809
+252|@~335|@~Jalan Rawamangun No. 01|@~Salatiga|@~DKI Jakarta|@~2026-01-18 14:19:11.546
+253|@~843|@~Jl. Joyoboyo No. 494|@~Palu|@~Bali|@~2026-03-05 03:17:58.131
+254|@~4|@~Gang Bangka Raya No. 93|@~Batam|@~Maluku|@~2026-02-16 00:17:49.612
+255|@~817|@~Gg. Astana Anyar No. 797|@~Kota Administrasi Jakarta Pusat|@~Jawa Tengah|@~2026-01-09 03:55:55.483
+256|@~296|@~Jalan Indragiri No. 39|@~Salatiga|@~Riau|@~2026-03-24 16:44:56.858
+257|@~239|@~Jl. HOS. Cokroaminoto No. 9|@~Cilegon|@~Papua Barat|@~2026-03-30 20:44:26.638
+258|@~957|@~Jalan Moch. Ramdan No. 86|@~Bandar Lampung|@~DI Yogyakarta|@~2026-03-31 21:38:02.148
+259|@~223|@~Jl. Ahmad Yani No. 4|@~Tual|@~Papua Barat|@~2026-01-11 17:02:18.102
+260|@~716|@~Jl. Soekarno Hatta No. 717|@~Cimahi|@~Papua Barat|@~2026-02-20 18:49:40.145
+261|@~287|@~Gang Moch. Ramdan No. 36|@~Tual|@~Maluku|@~2026-01-26 10:45:45.967
+262|@~467|@~Gg. Pasirkoja No. 04|@~Denpasar|@~Papua|@~2026-03-27 01:31:16.242
+263|@~597|@~Gg. Rumah Sakit No. 94|@~Padangpanjang|@~Jawa Tengah|@~2026-01-28 18:02:09.184
+264|@~134|@~Jl. Pelajar Pejuang No. 5|@~Bekasi|@~Riau|@~2026-03-13 09:42:19.334
+265|@~482|@~Jalan M.T Haryono No. 94|@~Pagaralam|@~Kalimantan Barat|@~2026-02-12 02:30:58.222
+266|@~105|@~Gg. Rajiman No. 47|@~Kotamobagu|@~Papua Barat|@~2026-03-03 10:01:33.665
+267|@~35|@~Gang Sadang Serang No. 48|@~Sukabumi|@~Sumatera Utara|@~2026-02-27 08:14:25.932
+268|@~370|@~Jl. Rajawali Barat No. 51|@~Sibolga|@~Kalimantan Barat|@~2026-02-20 12:17:39.940
+269|@~263|@~Jalan Kiaracondong No. 4|@~Payakumbuh|@~DKI Jakarta|@~2026-01-22 17:06:19.925
+270|@~136|@~Jalan Rajiman No. 8|@~Kota Administrasi Jakarta Selatan|@~Jawa Barat|@~2026-02-17 14:19:01.819
+271|@~721|@~Jl. Merdeka No. 20|@~Lhokseumawe|@~Sulawesi Selatan|@~2026-03-27 10:41:50.602
+272|@~882|@~Gg. Cikutra Barat No. 456|@~Ambon|@~Sulawesi Tengah|@~2026-03-09 10:44:46.822
+273|@~671|@~Gg. Abdul Muis No. 2|@~Batam|@~Sulawesi Selatan|@~2026-02-28 17:19:50.903
+274|@~184|@~Gang Lembong No. 42|@~Samarinda|@~Lampung|@~2026-03-02 22:26:55.878
+275|@~828|@~Gang Rumah Sakit No. 69|@~Bitung|@~Jawa Timur|@~2026-02-13 14:56:43.213
+276|@~789|@~Jalan Rajawali Barat No. 11|@~Batu|@~Kalimantan Timur|@~2026-02-15 10:59:31.702
+277|@~891|@~Gg. Yos Sudarso No. 83|@~Serang|@~Riau|@~2026-01-10 17:57:20.709
+278|@~771|@~Jalan Suniaraja No. 6|@~Bandung|@~Sulawesi Selatan|@~2026-03-24 08:10:16.916
+279|@~97|@~Jalan Soekarno Hatta No. 2|@~Bitung|@~Sulawesi Utara|@~2026-02-09 03:38:28.041
+280|@~53|@~Gg. Indragiri No. 33|@~Mataram|@~Jambi|@~2026-01-29 01:37:10.939
+281|@~952|@~Gang Sadang Serang No. 49|@~Tegal|@~Jambi|@~2026-02-12 07:43:23.183
+282|@~132|@~Gang Monginsidi No. 156|@~Bau-Bau|@~Sulawesi Tengah|@~2026-01-02 22:57:50.676
+283|@~252|@~Jl. Moch. Toha No. 078|@~Tangerang Selatan|@~Jawa Barat|@~2026-02-04 06:50:21.083
+284|@~626|@~Jalan Kebonjati No. 067|@~Cirebon|@~Bengkulu|@~2026-03-27 10:17:25.455
+285|@~840|@~Jalan Waringin No. 700|@~Banjarmasin|@~DI Yogyakarta|@~2026-01-16 21:17:04.333
+286|@~10|@~Jalan Dipatiukur No. 567|@~Bogor|@~Papua|@~2026-03-10 10:35:08.689
+287|@~325|@~Jalan Jakarta No. 3|@~Malang|@~Riau|@~2026-01-09 06:23:51.028
+288|@~784|@~Gg. Jayawijaya No. 505|@~Tebingtinggi|@~Gorontalo|@~2026-02-02 20:32:07.433
+289|@~32|@~Gang Dr. Djunjunan No. 4|@~Cirebon|@~Nusa Tenggara Timur|@~2026-01-14 08:47:53.228
+290|@~688|@~Jalan Moch. Toha No. 06|@~Sabang|@~Maluku|@~2026-01-25 04:30:27.867
+291|@~51|@~Gg. Cikutra Barat No. 16|@~Batu|@~Kepulauan Bangka Belitung|@~2026-01-30 22:36:05.715
+292|@~792|@~Gg. Kiaracondong No. 9|@~Langsa|@~Sulawesi Tengah|@~2026-03-24 22:26:19.629
+293|@~558|@~Gg. Bangka Raya No. 183|@~Kota Administrasi Jakarta Barat|@~Jawa Barat|@~2026-03-31 03:39:47.250
+294|@~16|@~Gang W.R. Supratman No. 8|@~Probolinggo|@~Gorontalo|@~2026-02-20 08:11:49.584
+295|@~788|@~Gang Merdeka No. 6|@~Subulussalam|@~Kalimantan Utara|@~2026-03-05 03:23:46.656
+296|@~658|@~Jl. Sadang Serang No. 7|@~Denpasar|@~Gorontalo|@~2026-02-08 19:10:12.575
+297|@~569|@~Gg. Bangka Raya No. 15|@~Palu|@~Jawa Timur|@~2026-01-14 00:17:13.122
+298|@~885|@~Jalan Jakarta No. 378|@~Madiun|@~Jawa Barat|@~2026-01-24 04:51:17.347
+299|@~66|@~Gang Pacuan Kuda No. 8|@~Bengkulu|@~Jambi|@~2026-03-26 06:41:18.310
+300|@~70|@~Gg. Abdul Muis No. 6|@~Tual|@~Jawa Barat|@~2026-03-24 23:54:23.389
+301|@~985|@~Jl. Bangka Raya No. 7|@~Banjarbaru|@~Jambi|@~2026-03-02 15:41:04.386
+302|@~387|@~Gang Jend. A. Yani No. 2|@~Parepare|@~Sulawesi Tengah|@~2026-03-19 07:43:23.578
+303|@~906|@~Gg. Veteran No. 22|@~Kota Administrasi Jakarta Utara|@~Sulawesi Utara|@~2026-01-14 15:19:49.658
+304|@~246|@~Gang Joyoboyo No. 403|@~Makassar|@~Sulawesi Selatan|@~2026-03-11 17:28:26.530
+305|@~83|@~Gang R.E Martadinata No. 5|@~Prabumulih|@~Sulawesi Tenggara|@~2026-03-12 04:43:32.261
+306|@~895|@~Gang Laswi No. 12|@~Lubuklinggau|@~Bali|@~2026-03-19 10:39:12.470
+307|@~302|@~Jl. Dipenogoro No. 5|@~Denpasar|@~Sumatera Selatan|@~2026-01-26 06:37:54.652
+308|@~702|@~Gg. Erlangga No. 13|@~Bekasi|@~Kalimantan Selatan|@~2026-03-17 19:52:12.343
+309|@~1|@~Jl. Cihampelas No. 0|@~Tanjungbalai|@~DI Yogyakarta|@~2026-03-02 09:57:49.818
+310|@~224|@~Gang Soekarno Hatta No. 00|@~Dumai|@~Sumatera Utara|@~2026-01-28 07:02:40.526
+311|@~448|@~Jalan Waringin No. 990|@~Metro|@~Sumatera Selatan|@~2026-03-17 12:41:31.300
+312|@~777|@~Jl. Cihampelas No. 8|@~Tasikmalaya|@~Sulawesi Tenggara|@~2026-01-24 20:03:28.580
+313|@~23|@~Gang Sentot Alibasa No. 42|@~Balikpapan|@~Papua|@~2026-01-21 05:31:23.433
+314|@~480|@~Jalan KH Amin Jasuta No. 805|@~Meulaboh|@~Kepulauan Riau|@~2026-01-17 13:56:06.279
+315|@~288|@~Gang Pacuan Kuda No. 496|@~Tomohon|@~Lampung|@~2026-03-05 19:21:19.309
+316|@~289|@~Gg. Rawamangun No. 4|@~Tomohon|@~Kalimantan Barat|@~2026-01-09 20:31:09.226
+317|@~741|@~Gg. Kapten Muslihat No. 6|@~Pangkalpinang|@~Papua Barat|@~2026-01-02 08:14:05.221
+318|@~368|@~Gg. Kebonjati No. 9|@~Bontang|@~Aceh|@~2026-02-18 01:23:05.039
+319|@~149|@~Jl. Soekarno Hatta No. 28|@~Manado|@~Bali|@~2026-03-19 01:06:31.631
+320|@~503|@~Gang Cihampelas No. 4|@~Kendari|@~Jambi|@~2026-02-10 03:03:28.856
+321|@~765|@~Gang Pasirkoja No. 75|@~Surabaya|@~Lampung|@~2026-01-16 21:49:46.387
+322|@~628|@~Gg. Cikutra Barat No. 5|@~Bandar Lampung|@~Kalimantan Selatan|@~2026-02-04 01:28:42.937
+323|@~753|@~Jalan W.R. Supratman No. 549|@~Ternate|@~Nusa Tenggara Timur|@~2026-02-09 05:21:21.581
+324|@~171|@~Gang W.R. Supratman No. 0|@~Kediri|@~Kepulauan Bangka Belitung|@~2026-03-29 05:44:28.089
+325|@~162|@~Jalan Soekarno Hatta No. 294|@~Binjai|@~Maluku Utara|@~2026-03-08 15:26:57.751
+326|@~683|@~Jl. Cempaka No. 27|@~Banjar|@~Sulawesi Tengah|@~2026-01-13 16:19:19.849
+327|@~110|@~Gg. KH Amin Jasuta No. 331|@~Salatiga|@~Kepulauan Bangka Belitung|@~2026-03-16 12:14:09.458
+328|@~922|@~Gg. Setiabudhi No. 65|@~Malang|@~Papua|@~2026-03-13 23:11:37.255
+329|@~220|@~Gang PHH. Mustofa No. 5|@~Medan|@~Papua Barat|@~2026-03-15 01:54:14.373
+330|@~563|@~Gg. Peta No. 220|@~Tasikmalaya|@~Kepulauan Riau|@~2026-02-02 18:38:54.971
+331|@~347|@~Gang Wonoayu No. 07|@~Lubuklinggau|@~Sulawesi Utara|@~2026-01-22 01:53:51.493
+332|@~245|@~Jalan Monginsidi No. 0|@~Prabumulih|@~Sulawesi Tengah|@~2026-02-08 06:50:11.844
+333|@~861|@~Jalan Kiaracondong No. 368|@~Sorong|@~Nusa Tenggara Barat|@~2026-03-27 19:45:30.877
+334|@~873|@~Gg. Cihampelas No. 3|@~Kediri|@~Jawa Tengah|@~2026-04-01 11:28:44.744
+335|@~877|@~Gg. Indragiri No. 0|@~Tarakan|@~Kepulauan Bangka Belitung|@~2026-03-28 19:08:15.062
+336|@~496|@~Jl. Erlangga No. 794|@~Tidore Kepulauan|@~Jambi|@~2026-03-01 14:51:44.796
+337|@~516|@~Jl. BKR No. 654|@~Sorong|@~Kalimantan Tengah|@~2026-03-05 04:08:59.223
+338|@~130|@~Gang Pelajar Pejuang No. 754|@~Bandar Lampung|@~Sulawesi Tengah|@~2026-03-02 23:37:10.962
+339|@~26|@~Jl. Medokan Ayu No. 62|@~Tebingtinggi|@~Kepulauan Riau|@~2026-01-05 01:02:49.659
+340|@~644|@~Gg. Gardujati No. 095|@~Banda Aceh|@~Kalimantan Tengah|@~2026-02-06 16:57:24.723
+341|@~964|@~Gang Rumah Sakit No. 092|@~Tasikmalaya|@~Aceh|@~2026-03-02 09:10:30.131
+342|@~884|@~Gang Surapati No. 5|@~Bogor|@~Bengkulu|@~2026-01-06 11:11:41.603
+343|@~57|@~Jalan Gegerkalong Hilir No. 7|@~Bandung|@~DKI Jakarta|@~2026-03-29 12:45:04.540
+344|@~656|@~Gang S. Parman No. 0|@~Mataram|@~Sumatera Utara|@~2026-02-06 12:32:51.605
+345|@~662|@~Jl. Kutai No. 598|@~Palopo|@~Kalimantan Timur|@~2026-03-12 12:46:11.090
+346|@~648|@~Jalan Cihampelas No. 660|@~Cimahi|@~Jawa Tengah|@~2026-02-13 04:11:16.301
+347|@~71|@~Jalan Pelajar Pejuang No. 7|@~Bukittinggi|@~Sulawesi Tenggara|@~2026-01-17 18:31:38.267
+348|@~691|@~Jl. Jakarta No. 1|@~Sukabumi|@~Sumatera Utara|@~2026-03-28 22:45:00.665
+349|@~3|@~Jalan Suniaraja No. 20|@~Lubuklinggau|@~Jawa Barat|@~2026-03-10 10:16:47.648
+350|@~538|@~Gang Gedebage Selatan No. 46|@~Kota Administrasi Jakarta Barat|@~Kalimantan Timur|@~2026-02-14 06:22:05.295
+351|@~331|@~Jalan Ahmad Yani No. 8|@~Serang|@~Papua|@~2026-01-16 22:55:12.054
+352|@~28|@~Gg. Setiabudhi No. 129|@~Ternate|@~Kalimantan Selatan|@~2026-03-04 09:01:30.497
+353|@~976|@~Gang Ronggowarsito No. 00|@~Ambon|@~Banten|@~2026-01-21 14:38:28.937
+354|@~580|@~Gang BKR No. 657|@~Pekanbaru|@~Jawa Barat|@~2026-02-15 12:06:11.325
+355|@~361|@~Jalan Tebet Barat Dalam No. 5|@~Cirebon|@~Kalimantan Selatan|@~2026-01-26 16:52:46.148
+356|@~80|@~Gang Suryakencana No. 827|@~Probolinggo|@~DI Yogyakarta|@~2026-03-27 07:34:15.129
+357|@~517|@~Jl. M.T Haryono No. 06|@~Subulussalam|@~Sulawesi Tenggara|@~2026-03-09 21:58:57.154
+358|@~600|@~Jalan Sadang Serang No. 063|@~Bontang|@~Maluku Utara|@~2026-03-02 01:23:54.724
+359|@~866|@~Gang Joyoboyo No. 60|@~Padangpanjang|@~Jawa Tengah|@~2026-03-03 05:23:03.700
+360|@~304|@~Gang Bangka Raya No. 356|@~Singkawang|@~Kepulauan Riau|@~2026-03-22 06:32:56.102
+361|@~127|@~Jalan Sentot Alibasa No. 670|@~Pekalongan|@~Papua|@~2026-02-22 17:22:29.034
+362|@~124|@~Gg. Medokan Ayu No. 62|@~Lubuklinggau|@~Kalimantan Selatan|@~2026-03-28 12:36:44.982
+363|@~317|@~Gg. Rungkut Industri No. 52|@~Tidore Kepulauan|@~Bali|@~2026-04-01 08:34:34.122
+364|@~187|@~Jl. Pacuan Kuda No. 7|@~Pagaralam|@~Jambi|@~2026-01-04 19:02:22.566
+365|@~89|@~Jl. M.T Haryono No. 3|@~Cimahi|@~Kepulauan Bangka Belitung|@~2026-02-15 20:00:00.013
+366|@~343|@~Jl. Gedebage Selatan No. 5|@~Serang|@~Maluku|@~2026-01-13 08:53:25.082
+367|@~188|@~Gg. Cihampelas No. 6|@~Bukittinggi|@~Nusa Tenggara Timur|@~2026-01-03 19:38:27.025
+368|@~93|@~Jalan Kapten Muslihat No. 568|@~Pangkalpinang|@~Gorontalo|@~2026-01-26 13:37:04.388
+369|@~344|@~Gg. Gardujati No. 534|@~Banjar|@~Papua Barat|@~2026-01-09 16:10:20.427
+370|@~849|@~Gang Soekarno Hatta No. 0|@~Sibolga|@~Nusa Tenggara Barat|@~2026-01-29 12:56:30.503
+371|@~775|@~Jl. Dr. Djunjunan No. 26|@~Mataram|@~Sumatera Selatan|@~2026-01-03 03:25:52.946
+372|@~642|@~Gg. Cikutra Barat No. 373|@~Lubuklinggau|@~Sumatera Barat|@~2026-02-16 00:29:47.846
+373|@~473|@~Jl. Rajawali Barat No. 45|@~Blitar|@~Kalimantan Barat|@~2026-02-02 08:23:22.835
+374|@~454|@~Gang Pasteur No. 14|@~Tomohon|@~Jawa Barat|@~2026-03-30 19:34:48.221
+375|@~715|@~Jl. Ciumbuleuit No. 853|@~Banda Aceh|@~Kalimantan Utara|@~2026-03-31 05:19:50.335
+376|@~951|@~Gg. Lembong No. 8|@~Dumai|@~Kalimantan Selatan|@~2026-03-10 07:46:11.080
+377|@~230|@~Jalan Rawamangun No. 863|@~Singkawang|@~Kepulauan Bangka Belitung|@~2026-02-13 19:26:40.955
+378|@~74|@~Jalan Dipatiukur No. 5|@~Semarang|@~Jambi|@~2026-01-31 23:49:38.940
+379|@~135|@~Jalan PHH. Mustofa No. 692|@~Bau-Bau|@~Kepulauan Riau|@~2026-01-28 21:45:21.089
+380|@~128|@~Jalan Rawamangun No. 40|@~Bontang|@~Sumatera Barat|@~2026-03-16 10:10:47.950
+381|@~363|@~Gang Monginsidi No. 987|@~Binjai|@~Kalimantan Timur|@~2026-03-04 07:44:06.614
+382|@~798|@~Jl. Medokan Ayu No. 598|@~Pematangsiantar|@~Jawa Timur|@~2026-03-18 13:36:51.890
+383|@~585|@~Gang Wonoayu No. 5|@~Solok|@~Kalimantan Utara|@~2026-01-29 19:13:53.572
+384|@~587|@~Jalan K.H. Wahid Hasyim No. 739|@~Bau-Bau|@~Riau|@~2026-02-11 22:33:08.163
+385|@~117|@~Gang Otto Iskandardinata No. 9|@~Salatiga|@~Jawa Barat|@~2026-02-12 14:34:25.132
+386|@~6|@~Jalan Ciwastra No. 579|@~Samarinda|@~Jawa Barat|@~2026-02-03 01:23:34.715
+387|@~310|@~Jalan Jamika No. 3|@~Malang|@~Sulawesi Selatan|@~2026-01-17 14:55:34.389
+388|@~192|@~Gang Moch. Ramdan No. 685|@~Pekalongan|@~Bali|@~2026-03-05 16:59:24.007
+389|@~548|@~Jalan Tubagus Ismail No. 453|@~Ambon|@~Bengkulu|@~2026-02-21 09:13:40.853
+390|@~29|@~Gang Siliwangi No. 378|@~Lubuklinggau|@~Nusa Tenggara Barat|@~2026-01-31 01:06:10.036
+391|@~468|@~Jalan Kiaracondong No. 57|@~Sabang|@~Lampung|@~2026-03-13 21:20:51.613
+392|@~324|@~Gang R.E Martadinata No. 540|@~Tanjungpinang|@~Nusa Tenggara Barat|@~2026-02-28 23:32:22.318
+393|@~677|@~Gg. Asia Afrika No. 5|@~Tangerang Selatan|@~Kalimantan Timur|@~2026-03-02 23:21:26.548
+394|@~958|@~Jl. Cempaka No. 51|@~Batu|@~Riau|@~2026-02-09 08:06:39.837
+395|@~200|@~Gang Kapten Muslihat No. 9|@~Tangerang|@~Kepulauan Riau|@~2026-03-22 00:15:42.005
+396|@~37|@~Jalan Kutisari Selatan No. 467|@~Sungai Penuh|@~DKI Jakarta|@~2026-03-03 23:37:31.916
+397|@~625|@~Gg. Moch. Ramdan No. 4|@~Kendari|@~Papua|@~2026-01-06 07:40:09.204
+398|@~391|@~Gg. Rawamangun No. 52|@~Banjarbaru|@~Gorontalo|@~2026-03-19 06:20:18.924
+399|@~79|@~Jl. Dipenogoro No. 157|@~Palu|@~Papua|@~2026-03-13 07:23:35.168
+400|@~493|@~Jl. Merdeka No. 43|@~Cimahi|@~Kalimantan Barat|@~2026-01-30 07:16:25.146
+401|@~540|@~Jl. Setiabudhi No. 5|@~Banjarmasin|@~Sulawesi Tengah|@~2026-01-31 03:45:43.821
+402|@~659|@~Gang Ronggowarsito No. 926|@~Pekanbaru|@~Jambi|@~2026-01-02 06:53:06.670
+403|@~696|@~Jalan Cihampelas No. 30|@~Sawahlunto|@~Nusa Tenggara Barat|@~2026-03-06 04:41:46.241
+404|@~596|@~Gg. Jakarta No. 5|@~Tanjungpinang|@~Jambi|@~2026-03-12 19:48:12.269
+405|@~846|@~Jalan Siliwangi No. 11|@~Padang|@~Maluku Utara|@~2026-03-18 00:40:05.690
+406|@~138|@~Jl. Monginsidi No. 261|@~Pekalongan|@~Bengkulu|@~2026-03-15 18:26:19.635
+407|@~555|@~Gang Rumah Sakit No. 2|@~Tarakan|@~Jawa Timur|@~2026-01-20 00:14:07.814
+408|@~541|@~Jl. Pasir Koja No. 7|@~Bandar Lampung|@~Sumatera Barat|@~2026-01-06 06:13:53.500
+409|@~610|@~Jalan Raya Ujungberung No. 965|@~Lubuklinggau|@~Kepulauan Riau|@~2026-01-10 04:55:11.726
+410|@~748|@~Jalan R.E Martadinata No. 6|@~Probolinggo|@~Kepulauan Bangka Belitung|@~2026-03-17 20:05:00.790
+411|@~25|@~Jalan Cihampelas No. 5|@~Kota Administrasi Jakarta Barat|@~Jawa Tengah|@~2026-01-28 00:52:28.168
+412|@~604|@~Gang S. Parman No. 816|@~Batu|@~Nusa Tenggara Timur|@~2026-02-04 03:41:27.023
+413|@~733|@~Gang Cikutra Timur No. 59|@~Palembang|@~Maluku Utara|@~2026-01-17 20:41:20.861
+414|@~971|@~Gg. Waringin No. 5|@~Jayapura|@~Papua|@~2026-03-25 20:13:04.492
+415|@~988|@~Jl. PHH. Mustofa No. 46|@~Kota Administrasi Jakarta Selatan|@~Jawa Timur|@~2026-01-21 17:50:36.397
+416|@~977|@~Gg. Pacuan Kuda No. 8|@~Denpasar|@~Jawa Timur|@~2026-02-26 07:27:36.050
+417|@~728|@~Jl. Sentot Alibasa No. 342|@~Banjarmasin|@~Banten|@~2026-01-14 02:15:00.881
+418|@~524|@~Jalan Kapten Muslihat No. 382|@~Tangerang Selatan|@~Sulawesi Tengah|@~2026-02-03 23:22:42.687
+419|@~365|@~Gang Jakarta No. 84|@~Kotamobagu|@~Sulawesi Utara|@~2026-03-10 12:37:46.391
+420|@~701|@~Gg. Gegerkalong Hilir No. 839|@~Kotamobagu|@~Kalimantan Timur|@~2026-03-14 14:48:00.029
+421|@~518|@~Jl. Abdul Muis No. 0|@~Palembang|@~Lampung|@~2026-03-08 00:50:47.156
+422|@~859|@~Jalan K.H. Wahid Hasyim No. 199|@~Jambi|@~Nusa Tenggara Barat|@~2026-02-05 13:20:40.351
+423|@~935|@~Jalan Dipenogoro No. 12|@~Meulaboh|@~Nusa Tenggara Barat|@~2026-02-01 14:08:54.465
+424|@~436|@~Gang Wonoayu No. 706|@~Kota Administrasi Jakarta Pusat|@~Kepulauan Bangka Belitung|@~2026-01-10 17:36:52.593
+425|@~44|@~Gg. H.J Maemunah No. 99|@~Pasuruan|@~Gorontalo|@~2026-03-30 22:19:21.001
+426|@~100|@~Jl. Soekarno Hatta No. 590|@~Kota Administrasi Jakarta Pusat|@~Sumatera Selatan|@~2026-03-07 06:24:59.009
+427|@~684|@~Jl. Rawamangun No. 56|@~Kotamobagu|@~Jawa Tengah|@~2026-03-27 10:34:38.243
+428|@~326|@~Jl. Cikutra Barat No. 956|@~Tomohon|@~Nusa Tenggara Barat|@~2026-01-03 07:11:13.096
+429|@~573|@~Jl. Monginsidi No. 945|@~Malang|@~Nusa Tenggara Barat|@~2026-02-02 18:02:38.627
+430|@~386|@~Jalan Jamika No. 0|@~Tanjungbalai|@~Kepulauan Bangka Belitung|@~2026-03-17 22:35:13.992
+431|@~67|@~Jl. Erlangga No. 35|@~Singkawang|@~Lampung|@~2026-02-13 16:23:16.511
+432|@~711|@~Gg. Dipatiukur No. 88|@~Pariaman|@~Sulawesi Tengah|@~2026-01-30 06:18:07.714
+433|@~657|@~Jalan Lembong No. 4|@~Lhokseumawe|@~Sulawesi Selatan|@~2026-02-27 20:18:45.321
+434|@~244|@~Gg. W.R. Supratman No. 051|@~Sibolga|@~Sulawesi Tengah|@~2026-02-10 01:35:32.230
+435|@~339|@~Jl. R.E Martadinata No. 2|@~Surabaya|@~Sulawesi Tenggara|@~2026-03-07 17:56:45.098
+436|@~185|@~Gang Raya Ujungberung No. 75|@~Yogyakarta|@~Jawa Tengah|@~2026-01-20 00:36:01.194
+437|@~236|@~Jl. Ir. H. Djuanda No. 3|@~Ambon|@~Jawa Barat|@~2026-02-10 19:41:06.346
+438|@~451|@~Gang Surapati No. 1|@~Bukittinggi|@~DKI Jakarta|@~2026-01-28 03:24:18.329
+439|@~22|@~Jalan Merdeka No. 2|@~Ternate|@~Sulawesi Tenggara|@~2026-01-23 15:12:07.030
+440|@~126|@~Jl. M.H Thamrin No. 789|@~Kotamobagu|@~Sulawesi Tengah|@~2026-03-14 16:48:46.752
+441|@~118|@~Gg. Rungkut Industri No. 8|@~Bau-Bau|@~Jawa Barat|@~2026-01-28 01:37:40.139
+442|@~258|@~Jalan Astana Anyar No. 5|@~Cimahi|@~Aceh|@~2026-01-17 23:16:30.062
+443|@~96|@~Jalan Suniaraja No. 942|@~Pontianak|@~Gorontalo|@~2026-03-02 02:39:55.658
+444|@~984|@~Gg. BKR No. 1|@~Ternate|@~Kalimantan Barat|@~2026-03-17 08:55:17.253
+445|@~408|@~Jalan Kapten Muslihat No. 28|@~Padang Sidempuan|@~Riau|@~2026-03-29 04:03:17.241
+446|@~557|@~Gg. H.J Maemunah No. 552|@~Serang|@~Kalimantan Barat|@~2026-01-27 02:18:29.212
+447|@~802|@~Gg. Rajawali Timur No. 4|@~Bontang|@~Jawa Barat|@~2026-01-12 17:23:35.033
+448|@~504|@~Jl. Gedebage Selatan No. 87|@~Banjar|@~Aceh|@~2026-03-27 14:50:22.398
+449|@~687|@~Jl. Medokan Ayu No. 64|@~Pematangsiantar|@~Nusa Tenggara Timur|@~2026-03-10 12:04:00.706
+450|@~354|@~Gg. Indragiri No. 85|@~Probolinggo|@~Kepulauan Bangka Belitung|@~2026-02-05 00:19:54.848
+451|@~757|@~Gg. Jakarta No. 4|@~Tangerang Selatan|@~Sumatera Utara|@~2026-01-04 18:48:09.823
+452|@~652|@~Gg. Dipenogoro No. 24|@~Salatiga|@~Kalimantan Selatan|@~2026-01-23 01:29:35.105
+453|@~158|@~Gg. Merdeka No. 97|@~Bima|@~Papua Barat|@~2026-02-04 11:35:01.852
+454|@~27|@~Gang Joyoboyo No. 5|@~Malang|@~Sumatera Barat|@~2026-02-26 20:38:48.756
+455|@~763|@~Jalan Jend. A. Yani No. 3|@~Kota Administrasi Jakarta Barat|@~Banten|@~2026-02-24 06:42:36.811
+456|@~75|@~Gg. Kebonjati No. 451|@~Bogor|@~Lampung|@~2026-01-13 14:21:45.825
+457|@~369|@~Gg. Pelajar Pejuang No. 805|@~Dumai|@~Sumatera Selatan|@~2026-03-21 23:10:05.526
+458|@~629|@~Jl. Jend. A. Yani No. 952|@~Pontianak|@~Riau|@~2026-02-08 01:09:04.411
+459|@~445|@~Gg. Pacuan Kuda No. 450|@~Kota Administrasi Jakarta Timur|@~Lampung|@~2026-02-24 00:11:41.794
+460|@~920|@~Jl. Raya Setiabudhi No. 6|@~Depok|@~Jawa Tengah|@~2026-01-31 05:39:33.438
+461|@~249|@~Jalan Laswi No. 1|@~Ternate|@~Papua|@~2026-01-30 21:18:23.771
+462|@~242|@~Jalan Suniaraja No. 1|@~Sungai Penuh|@~Banten|@~2026-02-28 09:57:42.041
+463|@~499|@~Gang Bangka Raya No. 9|@~Bandung|@~Kalimantan Tengah|@~2026-01-07 08:05:02.619
+464|@~506|@~Gang Kiaracondong No. 0|@~Bukittinggi|@~Jawa Timur|@~2026-02-06 09:39:57.131
+465|@~197|@~Jalan Cikapayang No. 7|@~Singkawang|@~Lampung|@~2026-03-05 18:55:27.957
+466|@~871|@~Jalan Cikutra Barat No. 0|@~Tangerang Selatan|@~Kalimantan Tengah|@~2026-01-19 00:15:13.542
+467|@~953|@~Jl. Siliwangi No. 511|@~Batu|@~DKI Jakarta|@~2026-01-09 01:25:52.382
+468|@~618|@~Gg. Peta No. 340|@~Surakarta|@~Sumatera Selatan|@~2026-03-13 12:37:54.741
+469|@~316|@~Jl. Rajiman No. 552|@~Bogor|@~Banten|@~2026-01-09 20:48:20.709
+470|@~81|@~Jalan Ahmad Dahlan No. 5|@~Depok|@~Kalimantan Tengah|@~2026-02-19 11:57:18.315
+471|@~55|@~Jl. Medokan Ayu No. 77|@~Banjarmasin|@~Kepulauan Riau|@~2026-03-08 07:12:51.005
+472|@~180|@~Gg. Moch. Ramdan No. 392|@~Parepare|@~Jawa Timur|@~2026-03-30 13:54:48.053
+473|@~910|@~Gang Kebonjati No. 139|@~Kendari|@~Kalimantan Selatan|@~2026-02-15 00:10:20.561
+474|@~820|@~Gg. Waringin No. 0|@~Yogyakarta|@~Kalimantan Timur|@~2026-03-11 19:47:35.634
+475|@~225|@~Gang W.R. Supratman No. 082|@~Tasikmalaya|@~Kalimantan Tengah|@~2026-02-18 16:34:21.699
+476|@~151|@~Gg. Wonoayu No. 26|@~Sabang|@~Papua|@~2026-03-21 13:37:14.474
+477|@~435|@~Gang Sukajadi No. 762|@~Salatiga|@~Bali|@~2026-01-27 06:38:48.212
+478|@~560|@~Gang R.E Martadinata No. 73|@~Kota Administrasi Jakarta Barat|@~Kalimantan Timur|@~2026-03-18 14:56:43.382
+479|@~954|@~Gg. Raya Ujungberung No. 991|@~Tangerang|@~DI Yogyakarta|@~2026-01-23 06:56:42.577
+480|@~191|@~Gg. Kendalsari No. 8|@~Banjar|@~Jawa Tengah|@~2026-03-05 14:00:50.805
+481|@~963|@~Gg. Stasiun Wonokromo No. 75|@~Tanjungbalai|@~Aceh|@~2026-02-23 19:00:43.352
+482|@~795|@~Jl. Kutisari Selatan No. 664|@~Pekalongan|@~Nusa Tenggara Timur|@~2026-03-11 13:03:07.170
+483|@~494|@~Jl. Sukabumi No. 13|@~Lhokseumawe|@~Aceh|@~2026-02-02 13:20:16.406
+484|@~398|@~Jl. Asia Afrika No. 965|@~Madiun|@~Kepulauan Bangka Belitung|@~2026-01-19 13:27:33.063
+485|@~196|@~Jalan Kutai No. 096|@~Pekalongan|@~DI Yogyakarta|@~2026-02-28 00:11:18.556
+486|@~833|@~Jl. S. Parman No. 37|@~Meulaboh|@~Kalimantan Tengah|@~2026-02-15 22:49:30.934
+487|@~283|@~Gg. Kiaracondong No. 9|@~Sawahlunto|@~Nusa Tenggara Timur|@~2026-01-05 05:58:18.595
+488|@~639|@~Gg. Abdul Muis No. 3|@~Batu|@~Kepulauan Riau|@~2026-01-13 03:57:36.812
+489|@~766|@~Jalan Surapati No. 90|@~Bogor|@~Lampung|@~2026-03-06 10:02:47.769
+490|@~692|@~Jl. Ciwastra No. 2|@~Kota Administrasi Jakarta Timur|@~Nusa Tenggara Barat|@~2026-03-19 06:20:55.530
+491|@~342|@~Gg. Jend. A. Yani No. 897|@~Bandung|@~Sulawesi Utara|@~2026-01-07 10:34:22.471
+492|@~738|@~Gg. Monginsidi No. 3|@~Tanjungpinang|@~Nusa Tenggara Timur|@~2026-01-26 20:01:29.612
+493|@~399|@~Gg. Cempaka No. 1|@~Kediri|@~Sulawesi Barat|@~2026-03-02 00:01:29.504
+494|@~857|@~Jalan Rawamangun No. 11|@~Bau-Bau|@~Papua Barat|@~2026-03-11 03:34:46.938
+495|@~797|@~Gg. Ir. H. Djuanda No. 10|@~Tebingtinggi|@~Papua Barat|@~2026-02-24 19:08:17.792
+496|@~257|@~Gang Pasir Koja No. 98|@~Bekasi|@~Maluku Utara|@~2026-03-30 01:27:40.108
+497|@~990|@~Gang Kendalsari No. 777|@~Kupang|@~Sulawesi Selatan|@~2026-02-06 09:22:20.228
+498|@~889|@~Gg. Gardujati No. 747|@~Sabang|@~Sulawesi Selatan|@~2026-03-08 11:14:07.543
+499|@~378|@~Gg. Kapten Muslihat No. 0|@~Denpasar|@~Jawa Timur|@~2026-01-23 08:24:55.466
+500|@~77|@~Gg. Veteran No. 966|@~Padangpanjang|@~Sulawesi Tengah|@~2026-03-14 11:26:08.680
+501|@~723|@~Jl. Medokan Ayu No. 2|@~Jayapura|@~Sumatera Utara|@~2026-03-02 02:03:39.033
+502|@~346|@~Gg. Sukajadi No. 379|@~Mojokerto|@~Papua|@~2026-02-06 08:15:33.016
+503|@~589|@~Gg. KH Amin Jasuta No. 6|@~Tanjungbalai|@~Sulawesi Barat|@~2026-03-30 20:56:48.817
+504|@~461|@~Gg. BKR No. 14|@~Tangerang|@~Maluku|@~2026-01-22 04:39:22.629
+505|@~565|@~Gang Rawamangun No. 88|@~Banda Aceh|@~Papua|@~2026-03-16 13:40:07.242
+506|@~669|@~Gg. BKR No. 25|@~Singkawang|@~Nusa Tenggara Timur|@~2026-02-11 09:24:34.140
+507|@~759|@~Jl. S. Parman No. 9|@~Tanjungpinang|@~Sulawesi Selatan|@~2026-02-14 01:43:06.599
+508|@~993|@~Jalan Rajawali Timur No. 4|@~Banjar|@~Sulawesi Selatan|@~2026-03-05 17:02:32.144
+509|@~826|@~Jalan Ahmad Dahlan No. 1|@~Binjai|@~Papua Barat|@~2026-03-02 08:54:19.499
+510|@~443|@~Jl. Dipenogoro No. 238|@~Pontianak|@~Sumatera Selatan|@~2026-02-18 02:30:37.336
+511|@~734|@~Gg. Jend. Sudirman No. 818|@~Makassar|@~DI Yogyakarta|@~2026-03-30 19:28:34.696
+512|@~776|@~Gang S. Parman No. 03|@~Bima|@~Sumatera Selatan|@~2026-03-23 05:11:52.885
+513|@~661|@~Gang Rajawali Timur No. 740|@~Balikpapan|@~Kalimantan Selatan|@~2026-02-16 17:15:42.795
+514|@~218|@~Jalan Sukabumi No. 1|@~Ternate|@~Kalimantan Tengah|@~2026-02-21 06:45:20.261
+515|@~583|@~Jalan Pasteur No. 04|@~Singkawang|@~Bali|@~2026-02-03 07:23:17.475
+516|@~858|@~Gang Surapati No. 3|@~Sawahlunto|@~Kepulauan Riau|@~2026-01-10 21:33:11.567
+517|@~489|@~Gg. Ciwastra No. 27|@~Payakumbuh|@~Kalimantan Barat|@~2026-02-18 05:10:22.181
+518|@~169|@~Jalan Jakarta No. 538|@~Sungai Penuh|@~Aceh|@~2026-01-06 08:17:05.197
+519|@~707|@~Jalan Kutisari Selatan No. 0|@~Kota Administrasi Jakarta Pusat|@~DI Yogyakarta|@~2026-03-07 07:18:02.132
+520|@~20|@~Gang PHH. Mustofa No. 26|@~Medan|@~Papua Barat|@~2026-01-21 15:20:17.495
+521|@~277|@~Gg. Raya Setiabudhi No. 870|@~Magelang|@~Sulawesi Barat|@~2026-03-09 14:29:00.093
+522|@~267|@~Jl. Jend. A. Yani No. 52|@~Jambi|@~Lampung|@~2026-01-18 00:07:50.860
+523|@~528|@~Gg. W.R. Supratman No. 21|@~Sorong|@~Kalimantan Barat|@~2026-01-05 09:34:21.743
+524|@~530|@~Gang Cihampelas No. 5|@~Cirebon|@~Sulawesi Barat|@~2026-02-06 17:19:18.562
+525|@~198|@~Jl. Setiabudhi No. 1|@~Pasuruan|@~Kalimantan Utara|@~2026-03-26 07:40:45.228
+526|@~229|@~Gang Soekarno Hatta No. 771|@~Bandar Lampung|@~Papua|@~2026-03-20 13:07:05.781
+527|@~929|@~Gg. Ronggowarsito No. 13|@~Sabang|@~Kalimantan Utara|@~2026-03-08 13:22:18.711
+528|@~349|@~Jl. Gedebage Selatan No. 404|@~Jayapura|@~Banten|@~2026-03-21 02:14:45.197
+529|@~462|@~Gang Antapani Lama No. 1|@~Cilegon|@~Gorontalo|@~2026-02-16 07:22:23.920
+530|@~955|@~Gang Ciumbuleuit No. 33|@~Mataram|@~DI Yogyakarta|@~2026-01-20 10:04:14.142
+531|@~945|@~Gang Kutai No. 436|@~Pagaralam|@~Jambi|@~2026-01-18 06:30:11.667
+532|@~913|@~Gang Cihampelas No. 204|@~Sibolga|@~Maluku|@~2026-03-12 11:14:05.354
+533|@~141|@~Gang Sukajadi No. 594|@~Gorontalo|@~Kalimantan Timur|@~2026-01-06 07:54:16.367
+534|@~459|@~Jalan KH Amin Jasuta No. 6|@~Jayapura|@~Jambi|@~2026-01-26 00:48:59.630
+535|@~972|@~Jalan S. Parman No. 1|@~Lhokseumawe|@~Kalimantan Timur|@~2026-03-24 06:22:36.931
+536|@~750|@~Gg. Rumah Sakit No. 74|@~Parepare|@~Sulawesi Tengah|@~2026-01-10 22:39:41.369
+537|@~801|@~Gg. Pasirkoja No. 7|@~Kota Administrasi Jakarta Selatan|@~Jambi|@~2026-03-22 23:40:22.063
+538|@~393|@~Jl. Ciwastra No. 48|@~Bontang|@~Maluku Utara|@~2026-03-12 03:29:02.959
+539|@~68|@~Gg. Cikutra Barat No. 678|@~Pontianak|@~Kalimantan Timur|@~2026-04-01 23:17:56.269
+540|@~894|@~Gang Ir. H. Djuanda No. 198|@~Tebingtinggi|@~Kepulauan Bangka Belitung|@~2026-01-11 17:48:34.231
+541|@~709|@~Jl. Soekarno Hatta No. 9|@~Bandar Lampung|@~DKI Jakarta|@~2026-02-08 05:23:17.644
+542|@~800|@~Jl. Dr. Djunjunan No. 14|@~Banjarmasin|@~Maluku|@~2026-01-26 23:44:12.193
+543|@~522|@~Gang Wonoayu No. 0|@~Kupang|@~Kalimantan Selatan|@~2026-01-25 13:57:25.242
+544|@~965|@~Gang Antapani Lama No. 12|@~Denpasar|@~Lampung|@~2026-02-15 08:02:35.666
+545|@~582|@~Jl. Pasirkoja No. 1|@~Padang Sidempuan|@~Papua Barat|@~2026-03-27 07:15:37.517
+546|@~13|@~Gg. Jend. Sudirman No. 3|@~Padangpanjang|@~Sulawesi Tengah|@~2026-02-02 04:38:33.971
+547|@~421|@~Gang Rajawali Timur No. 8|@~Ternate|@~Sulawesi Tenggara|@~2026-02-06 23:29:05.064
+548|@~211|@~Gg. Dipatiukur No. 23|@~Palu|@~Kepulauan Bangka Belitung|@~2026-01-22 14:16:58.863
+549|@~905|@~Gg. S. Parman No. 849|@~Purwokerto|@~DKI Jakarta|@~2026-03-29 21:58:44.511
+550|@~172|@~Gg. Pasirkoja No. 821|@~Purwokerto|@~Sumatera Barat|@~2026-02-22 03:14:48.688
+551|@~544|@~Gg. W.R. Supratman No. 3|@~Cirebon|@~DI Yogyakarta|@~2026-03-20 02:33:12.162
+552|@~897|@~Gang Rawamangun No. 176|@~Payakumbuh|@~Kalimantan Barat|@~2026-03-01 00:47:46.333
+553|@~453|@~Gg. Ciwastra No. 713|@~Bogor|@~Sumatera Selatan|@~2026-03-15 01:20:24.888
+554|@~881|@~Jalan Rumah Sakit No. 504|@~Tarakan|@~Bali|@~2026-03-20 13:24:30.054
+555|@~772|@~Jalan Jamika No. 486|@~Tasikmalaya|@~Papua|@~2026-03-09 19:28:57.277
+556|@~147|@~Jl. Kutai No. 91|@~Cilegon|@~Jawa Barat|@~2026-03-12 13:30:41.443
+557|@~697|@~Jl. Ciwastra No. 92|@~Kota Administrasi Jakarta Utara|@~Kepulauan Riau|@~2026-03-16 03:18:19.839
+558|@~616|@~Jalan HOS. Cokroaminoto No. 35|@~Cirebon|@~Sulawesi Selatan|@~2026-03-26 03:04:14.790
+559|@~159|@~Gang Sukabumi No. 245|@~Kota Administrasi Jakarta Utara|@~Bengkulu|@~2026-01-28 20:54:29.484
+560|@~631|@~Gg. Yos Sudarso No. 904|@~Solok|@~Bengkulu|@~2026-01-11 07:46:19.403
+561|@~395|@~Jl. Abdul Muis No. 11|@~Payakumbuh|@~Kalimantan Tengah|@~2026-02-10 07:00:16.407
+562|@~907|@~Gang Raya Ujungberung No. 2|@~Manado|@~Sulawesi Barat|@~2026-03-06 20:55:44.132
+563|@~60|@~Gang Jend. Sudirman No. 69|@~Pagaralam|@~Sumatera Utara|@~2026-02-08 12:24:16.575
+564|@~410|@~Gang Kapten Muslihat No. 53|@~Pekanbaru|@~Kalimantan Tengah|@~2026-03-02 16:25:12.455
+565|@~686|@~Jalan Pasteur No. 68|@~Meulaboh|@~DI Yogyakarta|@~2026-02-02 09:56:06.893
+566|@~744|@~Gg. Sentot Alibasa No. 984|@~Samarinda|@~Banten|@~2026-01-28 03:39:46.015
+567|@~778|@~Jalan R.E Martadinata No. 123|@~Madiun|@~Kalimantan Tengah|@~2026-03-14 01:54:25.721
+568|@~439|@~Gang Siliwangi No. 432|@~Bogor|@~Nusa Tenggara Barat|@~2026-01-01 06:17:28.732
+569|@~412|@~Jl. S. Parman No. 335|@~Pariaman|@~Lampung|@~2026-01-13 16:40:53.049
+570|@~936|@~Jalan Waringin No. 785|@~Depok|@~Sulawesi Tengah|@~2026-02-03 03:58:35.292
+571|@~700|@~Gg. H.J Maemunah No. 4|@~Purwokerto|@~Jawa Tengah|@~2026-03-15 19:21:36.759
+572|@~380|@~Jalan Rawamangun No. 26|@~Pasuruan|@~Kalimantan Timur|@~2026-03-05 06:05:23.564
+573|@~559|@~Gang Rungkut Industri No. 6|@~Sibolga|@~Lampung|@~2026-02-23 11:54:39.514
+574|@~747|@~Gang Medokan Ayu No. 26|@~Tegal|@~DKI Jakarta|@~2026-02-20 14:10:59.561
+575|@~987|@~Jl. Cihampelas No. 81|@~Blitar|@~Nusa Tenggara Barat|@~2026-02-04 10:33:32.112
+576|@~490|@~Jl. Raya Ujungberung No. 54|@~Banda Aceh|@~Jawa Barat|@~2026-03-06 20:14:31.279
+577|@~550|@~Jalan Cempaka No. 73|@~Bandung|@~Sumatera Selatan|@~2026-01-09 04:40:35.725
+578|@~847|@~Gg. Astana Anyar No. 31|@~Langsa|@~Sumatera Barat|@~2026-03-09 09:42:58.832
+579|@~848|@~Jl. Dr. Djunjunan No. 05|@~Langsa|@~Kalimantan Utara|@~2026-01-14 08:38:58.276
+580|@~404|@~Jalan Waringin No. 6|@~Makassar|@~Jawa Barat|@~2026-01-26 21:58:16.737
+581|@~991|@~Jl. Jend. Sudirman No. 0|@~Tual|@~Sulawesi Utara|@~2026-01-03 20:28:02.008
+582|@~48|@~Jl. Jend. A. Yani No. 6|@~Solok|@~Kalimantan Utara|@~2026-01-24 18:49:41.721
+583|@~619|@~Jalan Cikapayang No. 6|@~Langsa|@~Kepulauan Bangka Belitung|@~2026-02-06 12:04:51.961
+584|@~49|@~Jalan Monginsidi No. 08|@~Kota Administrasi Jakarta Utara|@~Kepulauan Bangka Belitung|@~2026-02-13 02:12:42.733
+585|@~415|@~Jalan Gedebage Selatan No. 41|@~Ternate|@~Maluku Utara|@~2026-03-18 03:05:36.618
+586|@~152|@~Gang Asia Afrika No. 4|@~Banjar|@~Maluku Utara|@~2026-01-31 13:28:35.616
+587|@~690|@~Gg. Otto Iskandardinata No. 9|@~Mataram|@~Sulawesi Tengah|@~2026-01-07 23:02:08.951
+588|@~794|@~Gang Otto Iskandardinata No. 7|@~Lhokseumawe|@~Kalimantan Utara|@~2026-02-02 01:34:32.121
+589|@~718|@~Jalan Waringin No. 15|@~Binjai|@~Sumatera Utara|@~2026-01-02 12:45:46.114
+590|@~165|@~Gg. PHH. Mustofa No. 619|@~Metro|@~Sumatera Barat|@~2026-02-21 04:22:59.543
+591|@~47|@~Jl. Asia Afrika No. 9|@~Kota Administrasi Jakarta Utara|@~Sulawesi Utara|@~2026-03-22 13:39:42.786
+592|@~153|@~Gg. Dipatiukur No. 156|@~Pangkalpinang|@~Kepulauan Bangka Belitung|@~2026-03-21 09:51:42.044
+593|@~708|@~Gg. Moch. Toha No. 279|@~Solok|@~Papua|@~2026-01-08 18:46:02.982
+594|@~474|@~Jl. Lembong No. 6|@~Palu|@~Aceh|@~2026-02-21 16:17:37.670
+595|@~357|@~Gang Sentot Alibasa No. 772|@~Batam|@~Bengkulu|@~2026-02-16 11:54:58.789
+596|@~119|@~Gang Ahmad Yani No. 397|@~Kotamobagu|@~Jambi|@~2026-01-16 21:16:51.413
+597|@~179|@~Gg. M.T Haryono No. 62|@~Bontang|@~Maluku Utara|@~2026-03-16 11:57:11.185
+598|@~38|@~Jalan Bangka Raya No. 61|@~Palangkaraya|@~Papua|@~2026-03-11 05:18:26.237
+599|@~86|@~Gang Cihampelas No. 02|@~Banjarmasin|@~Jawa Tengah|@~2026-03-21 17:23:29.059
+600|@~312|@~Gang Kapten Muslihat No. 8|@~Pontianak|@~Sulawesi Tengah|@~2026-03-15 20:11:12.219
+601|@~760|@~Gang Moch. Ramdan No. 8|@~Singkawang|@~Sumatera Barat|@~2026-01-06 15:38:32.886
+602|@~407|@~Gg. Rajawali Timur No. 77|@~Probolinggo|@~Jawa Barat|@~2026-01-27 10:27:29.103
+603|@~940|@~Gg. Cempaka No. 496|@~Makassar|@~Kalimantan Utara|@~2026-02-20 05:36:57.445
+604|@~348|@~Gang Stasiun Wonokromo No. 803|@~Tegal|@~Sulawesi Selatan|@~2026-01-31 21:13:01.738
+605|@~255|@~Gg. W.R. Supratman No. 185|@~Surabaya|@~Jambi|@~2026-01-26 09:41:54.362
+606|@~488|@~Jalan Jend. A. Yani No. 74|@~Lubuklinggau|@~Jawa Timur|@~2026-02-19 23:02:08.456
+607|@~758|@~Gang Pacuan Kuda No. 72|@~Meulaboh|@~Maluku Utara|@~2026-01-17 08:36:29.817
+608|@~982|@~Gg. Joyoboyo No. 41|@~Banda Aceh|@~Sumatera Selatan|@~2026-02-25 22:52:55.700
+609|@~173|@~Gg. Pasteur No. 243|@~Payakumbuh|@~Kalimantan Selatan|@~2026-01-21 22:44:17.282
+610|@~537|@~Jalan Abdul Muis No. 5|@~Ternate|@~Sumatera Barat|@~2026-02-01 03:24:19.724
+611|@~727|@~Jalan Joyoboyo No. 87|@~Langsa|@~Bengkulu|@~2026-02-23 23:22:58.242
+612|@~39|@~Gang Ir. H. Djuanda No. 094|@~Langsa|@~Nusa Tenggara Timur|@~2026-02-27 11:24:58.208
+613|@~356|@~Gg. Gardujati No. 8|@~Bima|@~Kepulauan Bangka Belitung|@~2026-02-13 21:20:51.248
+614|@~85|@~Gg. Dipatiukur No. 199|@~Tomohon|@~Jawa Timur|@~2026-01-13 03:04:27.335
+615|@~183|@~Jl. Pasteur No. 63|@~Malang|@~Aceh|@~2026-03-14 02:29:11.830
+616|@~617|@~Gg. Dipatiukur No. 769|@~Medan|@~Lampung|@~2026-01-02 22:23:30.961
+617|@~286|@~Gg. Sukajadi No. 9|@~Kota Administrasi Jakarta Barat|@~Kalimantan Barat|@~2026-02-07 21:13:27.574
+618|@~827|@~Gang M.H Thamrin No. 60|@~Palu|@~Jawa Tengah|@~2026-01-25 06:15:47.552
+619|@~768|@~Gg. Dipatiukur No. 514|@~Bima|@~DI Yogyakarta|@~2026-02-23 14:47:26.318
+620|@~719|@~Jl. Sukajadi No. 943|@~Tidore Kepulauan|@~Jawa Barat|@~2026-02-23 22:08:02.683
+621|@~109|@~Gg. Gedebage Selatan No. 317|@~Bogor|@~Sumatera Selatan|@~2026-03-30 14:33:51.194
+622|@~781|@~Jalan Cempaka No. 43|@~Bandar Lampung|@~Jawa Timur|@~2026-02-12 22:07:38.442
+623|@~264|@~Jl. Gardujati No. 92|@~Sawahlunto|@~Sulawesi Selatan|@~2026-02-01 23:34:57.174
+624|@~998|@~Gang Rumah Sakit No. 70|@~Tanjungbalai|@~Maluku Utara|@~2026-03-06 13:58:12.684
+625|@~876|@~Jl. Tebet Barat Dalam No. 066|@~Tarakan|@~DKI Jakarta|@~2026-01-19 09:06:04.466
+626|@~854|@~Gang Monginsidi No. 34|@~Cimahi|@~Papua Barat|@~2026-02-10 18:20:32.728
+627|@~705|@~Gg. S. Parman No. 282|@~Ambon|@~Kalimantan Utara|@~2026-03-07 02:07:45.547
+628|@~266|@~Jl. Jamika No. 48|@~Kediri|@~DKI Jakarta|@~2026-02-09 06:42:10.477
+629|@~341|@~Jalan Peta No. 914|@~Pontianak|@~Maluku Utara|@~2026-02-11 23:49:23.418
+630|@~178|@~Jalan S. Parman No. 6|@~Binjai|@~Papua Barat|@~2026-01-02 03:58:57.187
+631|@~21|@~Jl. HOS. Cokroaminoto No. 343|@~Solok|@~Sulawesi Tenggara|@~2026-02-18 11:08:24.182
+632|@~755|@~Gang Monginsidi No. 8|@~Tidore Kepulauan|@~Banten|@~2026-01-13 15:45:58.227
+633|@~915|@~Jalan BKR No. 880|@~Palembang|@~Sulawesi Tenggara|@~2026-01-14 02:45:15.830
+634|@~900|@~Gg. Pasteur No. 226|@~Kotamobagu|@~Sumatera Utara|@~2026-03-25 22:05:06.616
+635|@~640|@~Jl. Ir. H. Djuanda No. 018|@~Tual|@~Sulawesi Utara|@~2026-02-08 14:45:41.875
+636|@~724|@~Gg. Tebet Barat Dalam No. 8|@~Pangkalpinang|@~Jambi|@~2026-03-22 06:23:44.961
+637|@~966|@~Gg. Pacuan Kuda No. 38|@~Cilegon|@~Nusa Tenggara Barat|@~2026-03-09 23:53:43.470
+638|@~240|@~Jalan Asia Afrika No. 110|@~Meulaboh|@~Kalimantan Barat|@~2026-02-19 18:07:24.532
+639|@~186|@~Gg. Laswi No. 1|@~Tangerang|@~Kalimantan Utara|@~2026-01-24 11:31:30.789
+640|@~508|@~Jl. Cihampelas No. 26|@~Denpasar|@~Sumatera Utara|@~2026-02-05 21:25:08.313
+641|@~464|@~Gang Jend. Sudirman No. 3|@~Meulaboh|@~DKI Jakarta|@~2026-03-06 12:07:27.972
+642|@~838|@~Gang Tebet Barat Dalam No. 1|@~Solok|@~Kepulauan Bangka Belitung|@~2026-01-25 06:52:08.673
+643|@~164|@~Jl. Kapten Muslihat No. 59|@~Tangerang|@~DI Yogyakarta|@~2026-01-10 18:23:18.476
+644|@~203|@~Gg. Gedebage Selatan No. 073|@~Langsa|@~Kalimantan Selatan|@~2026-02-15 07:35:07.620
+645|@~806|@~Jl. Medokan Ayu No. 9|@~Pekalongan|@~Lampung|@~2026-01-28 19:24:07.852
+646|@~637|@~Gang Bangka Raya No. 13|@~Jambi|@~Maluku|@~2026-03-24 16:36:51.252
+647|@~930|@~Jalan KH Amin Jasuta No. 79|@~Serang|@~Banten|@~2026-02-18 23:11:18.508
+648|@~729|@~Gang Raya Setiabudhi No. 76|@~Bengkulu|@~Sumatera Barat|@~2026-02-01 20:02:05.829
+649|@~770|@~Gang Ahmad Yani No. 071|@~Batam|@~Nusa Tenggara Timur|@~2026-02-09 18:39:47.324
+650|@~392|@~Gang Cikapayang No. 468|@~Tegal|@~Jawa Timur|@~2026-01-23 16:23:02.706
+651|@~334|@~Gg. Suniaraja No. 583|@~Pangkalpinang|@~Nusa Tenggara Barat|@~2026-01-11 10:23:16.492
+652|@~546|@~Gang Cikutra Timur No. 60|@~Bandung|@~Sulawesi Tengah|@~2026-03-01 06:33:53.473
+653|@~601|@~Jl. Joyoboyo No. 46|@~Kota Administrasi Jakarta Selatan|@~Kalimantan Selatan|@~2026-03-01 09:32:51.493
+654|@~509|@~Gg. Pasirkoja No. 7|@~Singkawang|@~Kepulauan Bangka Belitung|@~2026-03-27 07:04:37.132
+655|@~680|@~Jalan Rumah Sakit No. 114|@~Langsa|@~Sumatera Selatan|@~2026-03-17 22:56:30.055
+656|@~608|@~Jalan Rajawali Timur No. 253|@~Meulaboh|@~Nusa Tenggara Timur|@~2026-03-15 07:04:57.702
+657|@~441|@~Gg. Peta No. 07|@~Kotamobagu|@~Sulawesi Tengah|@~2026-01-06 09:59:17.674
+658|@~836|@~Jalan Cihampelas No. 98|@~Pangkalpinang|@~Jawa Tengah|@~2026-01-05 09:41:10.826
+659|@~663|@~Gang Tubagus Ismail No. 84|@~Serang|@~Kalimantan Tengah|@~2026-01-13 11:22:00.982
+660|@~636|@~Jl. Pasirkoja No. 14|@~Tegal|@~Kalimantan Timur|@~2026-02-03 20:59:20.911
+661|@~943|@~Gang Rajiman No. 4|@~Banjar|@~Riau|@~2026-01-02 09:21:45.235
+662|@~140|@~Gg. Soekarno Hatta No. 44|@~Sorong|@~Sumatera Utara|@~2026-02-03 22:25:17.569
+663|@~574|@~Gg. Pasir Koja No. 22|@~Pematangsiantar|@~Sulawesi Barat|@~2026-02-28 10:20:56.341
+664|@~460|@~Jalan Jamika No. 253|@~Mojokerto|@~Sulawesi Barat|@~2026-03-26 03:58:52.268
+665|@~839|@~Gg. Dipenogoro No. 7|@~Bandung|@~Sulawesi Selatan|@~2026-02-09 11:25:45.595
+666|@~1000|@~Jl. S. Parman No. 342|@~Bontang|@~DKI Jakarta|@~2026-01-28 07:36:52.825
+667|@~831|@~Jalan Rajawali Timur No. 8|@~Kendari|@~Kalimantan Selatan|@~2026-02-04 22:38:28.829
+668|@~535|@~Gang KH Amin Jasuta No. 9|@~Yogyakarta|@~Sulawesi Tenggara|@~2026-01-20 08:00:47.824
+669|@~280|@~Gang Joyoboyo No. 63|@~Tangerang|@~Banten|@~2026-01-11 03:55:56.069
+670|@~928|@~Jl. Rawamangun No. 20|@~Madiun|@~Sulawesi Selatan|@~2026-01-29 18:13:28.459
+671|@~95|@~Jl. M.H Thamrin No. 401|@~Pangkalpinang|@~DKI Jakarta|@~2026-02-02 23:11:51.624
+672|@~113|@~Jalan Kutisari Selatan No. 45|@~Palopo|@~Sulawesi Tengah|@~2026-03-01 07:17:57.202
+673|@~376|@~Gang Ir. H. Djuanda No. 5|@~Ambon|@~Kalimantan Timur|@~2026-01-15 10:55:52.955
+674|@~290|@~Gang Jamika No. 08|@~Kendari|@~Kepulauan Riau|@~2026-01-31 08:25:08.339
+675|@~195|@~Jl. Ahmad Yani No. 0|@~Kotamobagu|@~Kalimantan Barat|@~2026-02-18 00:36:36.143
+676|@~932|@~Jalan Jakarta No. 373|@~Pekanbaru|@~Kalimantan Tengah|@~2026-02-19 22:04:24.352
+677|@~144|@~Jl. PHH. Mustofa No. 274|@~Batam|@~Maluku|@~2026-02-10 00:29:12.975
+678|@~552|@~Jl. Ciwastra No. 6|@~Gorontalo|@~Gorontalo|@~2026-02-16 12:26:53.603
+679|@~463|@~Gg. Waringin No. 116|@~Palangkaraya|@~Nusa Tenggara Timur|@~2026-01-07 06:18:14.343
+680|@~278|@~Gg. HOS. Cokroaminoto No. 8|@~Palembang|@~Sumatera Barat|@~2026-03-23 12:59:41.174
+681|@~799|@~Gang Cikapayang No. 357|@~Tegal|@~Sulawesi Selatan|@~2026-01-28 01:04:50.805
+682|@~892|@~Jl. Kutisari Selatan No. 584|@~Salatiga|@~Papua Barat|@~2026-01-22 04:27:34.909
+683|@~762|@~Gang Soekarno Hatta No. 54|@~Tangerang Selatan|@~Jawa Timur|@~2026-01-04 21:29:22.163
+684|@~371|@~Gg. Cihampelas No. 158|@~Banjarbaru|@~Banten|@~2026-02-13 10:26:17.543
+685|@~90|@~Jalan Pasteur No. 05|@~Lhokseumawe|@~Sumatera Selatan|@~2026-02-02 04:24:17.686
+686|@~471|@~Jalan Ciwastra No. 0|@~Tidore Kepulauan|@~Gorontalo|@~2026-01-29 11:06:18.779
+687|@~887|@~Jl. Merdeka No. 7|@~Kupang|@~Sulawesi Utara|@~2026-03-03 05:20:44.833
+688|@~539|@~Jalan Setiabudhi No. 108|@~Jayapura|@~DKI Jakarta|@~2026-02-02 16:04:32.568
+689|@~743|@~Jalan H.J Maemunah No. 93|@~Tidore Kepulauan|@~Kalimantan Barat|@~2026-03-24 11:01:57.909
+690|@~937|@~Jalan Abdul Muis No. 897|@~Kota Administrasi Jakarta Utara|@~Jambi|@~2026-03-07 15:55:03.266
+691|@~633|@~Gang Moch. Ramdan No. 0|@~Kendari|@~Jambi|@~2026-03-18 08:11:39.807
+692|@~773|@~Jalan Moch. Toha No. 402|@~Palembang|@~Lampung|@~2026-02-11 12:00:39.019
+693|@~142|@~Gang Abdul Muis No. 83|@~Tasikmalaya|@~Jawa Barat|@~2026-01-29 10:29:32.201
+694|@~174|@~Jalan Waringin No. 133|@~Banjarmasin|@~Kepulauan Riau|@~2026-03-21 21:56:27.112
+695|@~273|@~Gg. Kebonjati No. 64|@~Banjarmasin|@~Gorontalo|@~2026-03-15 22:55:23.838
+696|@~389|@~Gang Rajawali Barat No. 17|@~Purwokerto|@~Bali|@~2026-02-09 22:32:03.777
+697|@~921|@~Jalan Pasirkoja No. 290|@~Sukabumi|@~Jawa Tengah|@~2026-01-29 03:40:06.557
+698|@~219|@~Gang Jend. A. Yani No. 487|@~Pariaman|@~Jawa Tengah|@~2026-01-21 13:17:17.627
+699|@~58|@~Jalan Suniaraja No. 92|@~Purwokerto|@~Sulawesi Utara|@~2026-02-08 03:46:29.610
+700|@~695|@~Gang PHH. Mustofa No. 27|@~Jayapura|@~Papua Barat|@~2026-02-13 09:38:59.073
+701|@~736|@~Jalan Antapani Lama No. 0|@~Ambon|@~Kalimantan Tengah|@~2026-03-17 12:21:30.271
+702|@~11|@~Jl. Rawamangun No. 436|@~Serang|@~Riau|@~2026-02-21 18:00:28.041
+703|@~194|@~Jalan Sadang Serang No. 53|@~Manado|@~Sulawesi Barat|@~2026-03-01 13:59:47.750
+704|@~532|@~Gang Wonoayu No. 0|@~Ternate|@~Kalimantan Selatan|@~2026-01-10 22:24:19.084
+705|@~92|@~Gg. Jayawijaya No. 8|@~Bogor|@~Sumatera Utara|@~2026-01-13 00:10:08.739
+706|@~329|@~Jalan Cikutra Barat No. 4|@~Tegal|@~Kalimantan Tengah|@~2026-03-18 15:53:52.389
+707|@~366|@~Jl. Kutai No. 5|@~Kupang|@~Nusa Tenggara Timur|@~2026-03-12 20:00:58.975
+708|@~426|@~Gg. Ahmad Dahlan No. 51|@~Sawahlunto|@~Sulawesi Selatan|@~2026-04-01 14:51:28.835
+709|@~500|@~Jalan Sukabumi No. 2|@~Padang Sidempuan|@~Nusa Tenggara Barat|@~2026-02-14 01:33:14.886
+710|@~995|@~Gang Kiaracondong No. 9|@~Palembang|@~Gorontalo|@~2026-02-03 05:38:14.333
+711|@~739|@~Jalan Sentot Alibasa No. 72|@~Depok|@~DI Yogyakarta|@~2026-01-11 11:21:05.333
+712|@~791|@~Gang Peta No. 83|@~Tarakan|@~Kalimantan Timur|@~2026-03-01 04:48:14.858
+713|@~182|@~Gg. Soekarno Hatta No. 602|@~Lubuklinggau|@~Kalimantan Barat|@~2026-03-16 03:56:57.642
+714|@~495|@~Jalan Moch. Ramdan No. 985|@~Blitar|@~Jawa Timur|@~2026-02-04 05:02:53.238
+715|@~754|@~Jl. Bangka Raya No. 821|@~Palembang|@~Nusa Tenggara Timur|@~2026-01-08 19:03:16.519
+716|@~890|@~Jl. Ciumbuleuit No. 051|@~Parepare|@~Kalimantan Utara|@~2026-01-25 01:11:17.156
+717|@~360|@~Gg. Sukajadi No. 48|@~Padangpanjang|@~Maluku|@~2026-03-19 12:43:35.299
+718|@~226|@~Jalan Jakarta No. 337|@~Kota Administrasi Jakarta Pusat|@~DI Yogyakarta|@~2026-03-02 09:26:18.008
+719|@~808|@~Gg. Rumah Sakit No. 3|@~Pariaman|@~Bengkulu|@~2026-02-06 23:16:20.391
+720|@~634|@~Jl. Dr. Djunjunan No. 62|@~Banjarbaru|@~Kepulauan Riau|@~2026-01-17 09:57:33.437
+721|@~272|@~Jl. KH Amin Jasuta No. 319|@~Kotamobagu|@~Papua Barat|@~2026-02-14 13:55:02.329
+722|@~852|@~Jl. Pacuan Kuda No. 473|@~Pematangsiantar|@~Nusa Tenggara Timur|@~2026-02-21 11:39:06.996
+723|@~299|@~Jalan Jend. A. Yani No. 131|@~Malang|@~Kepulauan Riau|@~2026-03-17 10:37:59.280
+724|@~446|@~Gang Jamika No. 1|@~Bontang|@~Sulawesi Barat|@~2026-02-04 08:41:11.833
+725|@~983|@~Gang Pasir Koja No. 0|@~Tidore Kepulauan|@~Riau|@~2026-02-17 17:48:26.780
+726|@~385|@~Jalan PHH. Mustofa No. 412|@~Dumai|@~Papua|@~2026-03-09 04:24:13.734
+727|@~419|@~Gg. Gegerkalong Hilir No. 789|@~Langsa|@~Lampung|@~2026-01-12 22:32:46.413
+728|@~510|@~Gang Joyoboyo No. 4|@~Pariaman|@~Sumatera Utara|@~2026-02-15 16:23:02.921
+729|@~298|@~Gang Tebet Barat Dalam No. 3|@~Kupang|@~DI Yogyakarta|@~2026-03-07 13:55:23.730
+730|@~123|@~Jl. Antapani Lama No. 277|@~Jayapura|@~Sulawesi Tenggara|@~2026-01-30 17:20:34.107
+731|@~969|@~Gg. Laswi No. 3|@~Sorong|@~Kalimantan Timur|@~2026-02-04 04:21:20.771
+732|@~36|@~Gang Bangka Raya No. 1|@~Prabumulih|@~Kepulauan Riau|@~2026-01-30 19:06:10.244
+733|@~285|@~Gang Waringin No. 414|@~Pagaralam|@~DI Yogyakarta|@~2026-03-12 11:59:17.708
+734|@~352|@~Gang Otto Iskandardinata No. 2|@~Kota Administrasi Jakarta Timur|@~Maluku Utara|@~2026-01-29 20:00:08.813
+735|@~98|@~Gang Rajiman No. 4|@~Batu|@~Sumatera Utara|@~2026-01-08 12:09:43.529
+736|@~594|@~Gg. Moch. Toha No. 99|@~Pontianak|@~Bali|@~2026-02-21 14:12:01.801
+737|@~479|@~Gg. Otto Iskandardinata No. 008|@~Pangkalpinang|@~Maluku Utara|@~2026-03-31 23:58:50.061
+738|@~403|@~Jalan Dipenogoro No. 79|@~Tegal|@~Jambi|@~2026-01-19 04:56:41.071
+739|@~383|@~Jalan Rawamangun No. 138|@~Payakumbuh|@~Kepulauan Bangka Belitung|@~2026-01-15 22:12:09.153
+740|@~934|@~Gg. R.E Martadinata No. 82|@~Salatiga|@~Kalimantan Selatan|@~2026-01-11 06:23:46.749
+741|@~56|@~Jl. Sentot Alibasa No. 3|@~Kota Administrasi Jakarta Barat|@~Sulawesi Tengah|@~2026-01-27 08:27:59.569
+742|@~465|@~Gg. Cihampelas No. 218|@~Ternate|@~Kalimantan Tengah|@~2026-01-02 15:03:33.086
+743|@~221|@~Gg. Suryakencana No. 29|@~Tanjungbalai|@~Kalimantan Tengah|@~2026-03-05 19:24:28.612
+744|@~234|@~Jalan Bangka Raya No. 48|@~Payakumbuh|@~Kepulauan Bangka Belitung|@~2026-01-31 06:45:19.799
+745|@~323|@~Jalan Jakarta No. 291|@~Lubuklinggau|@~Gorontalo|@~2026-03-01 12:37:25.282
+746|@~417|@~Gang Asia Afrika No. 558|@~Metro|@~Sumatera Barat|@~2026-02-07 14:41:48.556
+747|@~210|@~Gang Pasir Koja No. 41|@~Tangerang Selatan|@~Kalimantan Selatan|@~2026-01-20 14:30:31.288
+748|@~330|@~Jl. Indragiri No. 045|@~Sungai Penuh|@~DKI Jakarta|@~2026-03-27 14:05:34.874
+749|@~783|@~Gang Asia Afrika No. 3|@~Pematangsiantar|@~Kalimantan Timur|@~2026-03-14 18:04:52.911
+750|@~215|@~Jalan Sentot Alibasa No. 5|@~Pematangsiantar|@~Jawa Barat|@~2026-03-24 08:11:17.046
+751|@~216|@~Jalan Jamika No. 4|@~Pagaralam|@~DI Yogyakarta|@~2026-01-30 08:34:12.760
+752|@~568|@~Jalan Surapati No. 893|@~Medan|@~Jawa Tengah|@~2026-02-22 01:35:58.102
+753|@~327|@~Jalan Rajiman No. 53|@~Ternate|@~Jambi|@~2026-01-03 00:37:05.345
+754|@~355|@~Gg. Veteran No. 1|@~Pariaman|@~Kepulauan Bangka Belitung|@~2026-03-12 23:38:04.316
+755|@~87|@~Gang Rajiman No. 1|@~Banjar|@~Sulawesi Utara|@~2026-03-13 12:52:11.623
+756|@~737|@~Gang Suniaraja No. 74|@~Parepare|@~Maluku Utara|@~2026-03-06 02:11:33.786
+757|@~269|@~Jl. Rajiman No. 2|@~Subulussalam|@~Kalimantan Barat|@~2026-03-24 14:01:56.542
+758|@~455|@~Gg. Cihampelas No. 6|@~Sawahlunto|@~Sulawesi Utara|@~2026-02-23 08:04:39.252
+759|@~157|@~Gg. BKR No. 4|@~Cilegon|@~Sumatera Barat|@~2026-01-21 17:53:44.222
+760|@~835|@~Jl. Sukabumi No. 44|@~Bogor|@~Nusa Tenggara Timur|@~2026-03-09 18:51:19.577
+761|@~774|@~Gg. Cihampelas No. 49|@~Pekanbaru|@~Kepulauan Riau|@~2026-02-17 22:15:37.772
+762|@~924|@~Jl. Kutisari Selatan No. 478|@~Medan|@~Papua|@~2026-01-27 14:27:23.676
+763|@~260|@~Jl. PHH. Mustofa No. 02|@~Sukabumi|@~Nusa Tenggara Barat|@~2026-02-21 19:25:15.208
+764|@~31|@~Gg. Soekarno Hatta No. 2|@~Bandar Lampung|@~Sulawesi Barat|@~2026-01-27 22:42:27.991
+765|@~944|@~Jl. Pasirkoja No. 15|@~Sabang|@~Lampung|@~2026-02-27 23:38:51.552
+766|@~122|@~Gang Asia Afrika No. 913|@~Sabang|@~Kepulauan Riau|@~2026-01-03 00:40:21.820
+767|@~556|@~Gang Pelajar Pejuang No. 00|@~Subulussalam|@~Sulawesi Utara|@~2026-01-08 22:52:29.509
+768|@~948|@~Gg. H.J Maemunah No. 0|@~Sibolga|@~Kepulauan Bangka Belitung|@~2026-02-15 17:11:58.396
+769|@~241|@~Gang Cikutra Barat No. 33|@~Medan|@~Kalimantan Timur|@~2026-01-07 00:31:14.810
+770|@~41|@~Gang Wonoayu No. 672|@~Sorong|@~Riau|@~2026-01-10 02:09:04.274
+771|@~819|@~Gang Joyoboyo No. 166|@~Pekalongan|@~Maluku|@~2026-01-25 00:27:58.515
+772|@~814|@~Gg. Monginsidi No. 9|@~Kediri|@~Nusa Tenggara Barat|@~2026-04-01 23:40:27.613
+773|@~575|@~Gg. Kapten Muslihat No. 866|@~Jayapura|@~Kalimantan Barat|@~2026-02-18 08:53:59.010
+774|@~199|@~Gg. Moch. Toha No. 473|@~Manado|@~Bengkulu|@~2026-01-07 07:27:02.884
+775|@~786|@~Gang Antapani Lama No. 564|@~Tanjungbalai|@~Bengkulu|@~2026-02-16 06:13:14.331
+776|@~306|@~Jalan Pasirkoja No. 3|@~Magelang|@~DKI Jakarta|@~2026-01-14 06:36:11.118
+777|@~732|@~Gang Monginsidi No. 07|@~Purwokerto|@~Maluku Utara|@~2026-03-25 15:04:54.100
+778|@~193|@~Gg. BKR No. 0|@~Bau-Bau|@~Gorontalo|@~2026-01-09 10:13:51.797
+779|@~853|@~Jalan Setiabudhi No. 67|@~Tanjungbalai|@~Kalimantan Barat|@~2026-01-08 18:43:56.790
+780|@~893|@~Gang Moch. Toha No. 814|@~Cilegon|@~Papua Barat|@~2026-01-20 16:34:26.506
+781|@~291|@~Jalan Ciwastra No. 091|@~Binjai|@~Maluku|@~2026-02-02 03:36:35.195
+782|@~615|@~Gg. Dipenogoro No. 605|@~Jambi|@~Bali|@~2026-02-28 12:49:30.792
+783|@~232|@~Jalan Antapani Lama No. 604|@~Malang|@~DI Yogyakarta|@~2026-03-05 12:55:07.266
+784|@~402|@~Gg. KH Amin Jasuta No. 448|@~Sungai Penuh|@~Maluku|@~2026-02-26 10:32:26.402
+785|@~931|@~Jl. Rungkut Industri No. 552|@~Tanjungbalai|@~Kalimantan Utara|@~2026-03-27 14:30:38.641
+786|@~315|@~Jalan Yos Sudarso No. 31|@~Blitar|@~Sulawesi Utara|@~2026-03-10 18:30:55.542
+787|@~309|@~Jalan BKR No. 868|@~Lhokseumawe|@~Maluku|@~2026-01-27 04:03:45.381
+788|@~163|@~Jalan Merdeka No. 19|@~Semarang|@~Jawa Tengah|@~2026-03-20 00:00:55.021
+789|@~579|@~Jl. Ciwastra No. 0|@~Medan|@~Jawa Tengah|@~2026-02-11 22:59:21.784
+790|@~477|@~Gang Bangka Raya No. 7|@~Madiun|@~Kalimantan Timur|@~2026-01-31 03:58:21.517
+791|@~406|@~Jl. Rajiman No. 2|@~Sabang|@~Bali|@~2026-03-02 12:59:06.398
+792|@~845|@~Gang Abdul Muis No. 92|@~Depok|@~Sumatera Selatan|@~2026-03-18 01:34:14.101
+793|@~268|@~Gang Waringin No. 7|@~Sorong|@~Kepulauan Bangka Belitung|@~2026-03-24 17:40:59.260
+794|@~653|@~Gg. Pasirkoja No. 4|@~Banjarbaru|@~Jawa Barat|@~2026-01-01 23:39:58.984
+795|@~204|@~Gang Antapani Lama No. 97|@~Palangkaraya|@~Jawa Barat|@~2026-01-18 06:53:29.498
+796|@~63|@~Gg. Siliwangi No. 667|@~Manado|@~Maluku Utara|@~2026-02-03 19:23:18.900
+797|@~722|@~Jl. Pasirkoja No. 90|@~Kota Administrasi Jakarta Barat|@~Maluku|@~2026-03-03 22:19:03.521
+798|@~646|@~Gang Kendalsari No. 40|@~Palembang|@~DKI Jakarta|@~2026-02-26 11:55:32.991
+799|@~903|@~Gg. Setiabudhi No. 5|@~Surakarta|@~Kalimantan Barat|@~2026-03-01 12:07:27.337
+800|@~475|@~Gg. Medokan Ayu No. 1|@~Pematangsiantar|@~Aceh|@~2026-01-05 05:29:14.349
+801|@~664|@~Gg. Rajiman No. 091|@~Subulussalam|@~Jawa Timur|@~2026-01-10 08:25:22.564
+802|@~959|@~Gg. Setiabudhi No. 973|@~Ternate|@~Kalimantan Tengah|@~2026-02-27 06:29:48.069
+803|@~111|@~Gang Ir. H. Djuanda No. 6|@~Pagaralam|@~Papua|@~2026-01-18 09:46:19.937
+804|@~294|@~Jalan Ciumbuleuit No. 18|@~Pekanbaru|@~Papua Barat|@~2026-02-15 06:44:24.734
+805|@~888|@~Gang PHH. Mustofa No. 86|@~Bukittinggi|@~Kepulauan Bangka Belitung|@~2026-03-13 00:08:07.808
+806|@~996|@~Jalan KH Amin Jasuta No. 611|@~Bandar Lampung|@~Riau|@~2026-03-31 06:12:08.991
+807|@~867|@~Jalan Ahmad Yani No. 2|@~Blitar|@~Sulawesi Tengah|@~2026-03-24 14:39:42.646
+808|@~572|@~Gang Kutai No. 92|@~Tanjungpinang|@~Bali|@~2026-03-15 16:20:36.003
+809|@~917|@~Gg. Rawamangun No. 0|@~Sukabumi|@~Kalimantan Utara|@~2026-03-10 01:27:52.152
+810|@~420|@~Jalan Jend. A. Yani No. 191|@~Bogor|@~Riau|@~2026-03-10 15:44:49.618
+811|@~213|@~Gang Pasteur No. 140|@~Banjar|@~Jambi|@~2026-01-10 08:26:56.936
+812|@~168|@~Jl. Soekarno Hatta No. 13|@~Solok|@~Sulawesi Tengah|@~2026-03-28 20:57:46.186
+813|@~40|@~Gg. M.H Thamrin No. 7|@~Palopo|@~Kalimantan Timur|@~2026-03-18 16:15:02.342
+814|@~478|@~Gg. Erlangga No. 1|@~Tangerang|@~Sulawesi Selatan|@~2026-03-25 11:25:00.458
+815|@~297|@~Jalan Pasirkoja No. 0|@~Pematangsiantar|@~Sulawesi Selatan|@~2026-02-28 15:21:18.687
+816|@~782|@~Jl. M.T Haryono No. 5|@~Kota Administrasi Jakarta Timur|@~Lampung|@~2026-03-14 23:56:04.790
+817|@~960|@~Gg. BKR No. 06|@~Denpasar|@~Kalimantan Tengah|@~2026-03-22 06:05:15.053
+818|@~145|@~Gg. Kebonjati No. 04|@~Pontianak|@~Kalimantan Utara|@~2026-03-15 12:10:31.206
+819|@~301|@~Gang M.T Haryono No. 86|@~Yogyakarta|@~Sumatera Utara|@~2026-04-01 10:21:05.270
+820|@~521|@~Jalan Surapati No. 07|@~Manado|@~Riau|@~2026-01-09 00:42:17.550
+821|@~699|@~Gang Rungkut Industri No. 4|@~Tangerang Selatan|@~Papua Barat|@~2026-01-30 18:03:33.328
+822|@~133|@~Jl. Cihampelas No. 917|@~Bogor|@~DKI Jakarta|@~2026-01-20 23:25:21.330
+823|@~418|@~Gang S. Parman No. 4|@~Mojokerto|@~Sulawesi Tengah|@~2026-01-08 10:24:05.753
+824|@~397|@~Gang Cempaka No. 3|@~Kupang|@~Jambi|@~2026-02-18 13:12:01.409
+825|@~14|@~Jl. Abdul Muis No. 8|@~Kendari|@~Bengkulu|@~2026-03-31 23:48:50.185
+826|@~205|@~Jl. Siliwangi No. 982|@~Depok|@~Kalimantan Utara|@~2026-01-09 19:21:48.832
+827|@~345|@~Jl. K.H. Wahid Hasyim No. 173|@~Ambon|@~Kalimantan Tengah|@~2026-03-02 05:33:18.361
+828|@~222|@~Gang Kebonjati No. 823|@~Padang Sidempuan|@~Sumatera Barat|@~2026-01-21 14:46:16.758
+829|@~992|@~Gg. Pasir Koja No. 246|@~Langsa|@~Sulawesi Barat|@~2026-02-17 09:21:42.003
+830|@~673|@~Jl. BKR No. 47|@~Pariaman|@~Papua|@~2026-01-05 11:12:34.646
+831|@~64|@~Gang KH Amin Jasuta No. 6|@~Kota Administrasi Jakarta Pusat|@~Bengkulu|@~2026-02-02 10:01:21.519
+832|@~949|@~Jl. Cikutra Barat No. 357|@~Balikpapan|@~Lampung|@~2026-01-27 04:00:25.144
+833|@~681|@~Gg. Monginsidi No. 1|@~Samarinda|@~Kalimantan Barat|@~2026-01-28 04:32:33.510
+834|@~434|@~Gang Veteran No. 92|@~Kotamobagu|@~Kepulauan Riau|@~2026-02-04 21:50:54.145
+835|@~851|@~Jl. Kutisari Selatan No. 79|@~Tangerang Selatan|@~Kalimantan Barat|@~2026-03-04 04:56:40.281
+836|@~584|@~Jl. Jakarta No. 44|@~Bengkulu|@~Kalimantan Utara|@~2026-01-22 11:49:06.031
+837|@~292|@~Jl. Erlangga No. 5|@~Sawahlunto|@~Kepulauan Bangka Belitung|@~2026-03-19 06:55:57.705
+838|@~627|@~Jalan PHH. Mustofa No. 33|@~Batam|@~DKI Jakarta|@~2026-01-20 19:39:51.604
+839|@~250|@~Jalan Sukabumi No. 008|@~Palu|@~Sulawesi Tengah|@~2026-03-23 01:09:00.879
+840|@~433|@~Gang Rajawali Timur No. 991|@~Bekasi|@~Sumatera Selatan|@~2026-01-31 11:45:11.821
+841|@~947|@~Jalan Astana Anyar No. 94|@~Ambon|@~Nusa Tenggara Barat|@~2026-02-20 13:33:13.965
+842|@~487|@~Gg. Veteran No. 593|@~Pasuruan|@~Papua Barat|@~2026-03-26 21:41:18.918
+843|@~82|@~Jalan Wonoayu No. 20|@~Tanjungbalai|@~DI Yogyakarta|@~2026-01-25 09:53:19.520
+844|@~841|@~Jalan Tebet Barat Dalam No. 48|@~Bogor|@~Jawa Tengah|@~2026-02-28 19:00:15.644
+845|@~598|@~Jl. Sukajadi No. 82|@~Padang Sidempuan|@~Bengkulu|@~2026-01-18 11:44:52.248
+846|@~590|@~Gg. Tebet Barat Dalam No. 858|@~Lhokseumawe|@~Kalimantan Timur|@~2026-01-16 06:49:43.516
+847|@~507|@~Gg. Surapati No. 2|@~Bau-Bau|@~Sulawesi Tengah|@~2026-02-21 09:00:20.121
+848|@~129|@~Jl. M.T Haryono No. 9|@~Padangpanjang|@~DKI Jakarta|@~2026-03-02 04:01:33.641
+849|@~382|@~Jalan HOS. Cokroaminoto No. 957|@~Serang|@~Jawa Timur|@~2026-02-04 23:43:25.783
+850|@~514|@~Gang Cikapayang No. 303|@~Palu|@~Sumatera Utara|@~2026-01-23 10:52:09.110
+851|@~54|@~Gang Kutisari Selatan No. 30|@~Cirebon|@~Kalimantan Tengah|@~2026-02-06 17:56:54.898
+852|@~452|@~Jl. Cikutra Barat No. 4|@~Pangkalpinang|@~Sulawesi Barat|@~2026-03-02 09:25:21.182
+853|@~586|@~Jl. Sadang Serang No. 2|@~Singkawang|@~Kepulauan Riau|@~2026-03-05 21:32:36.872
+854|@~2|@~Jalan Sukabumi No. 8|@~Pangkalpinang|@~Kepulauan Bangka Belitung|@~2026-02-11 04:07:13.973
+855|@~643|@~Gang Veteran No. 833|@~Semarang|@~Sumatera Barat|@~2026-02-27 05:17:39.332
+856|@~603|@~Gang Yos Sudarso No. 7|@~Makassar|@~Lampung|@~2026-01-21 18:56:50.123
+857|@~554|@~Jl. Kutai No. 87|@~Tebingtinggi|@~Maluku Utara|@~2026-03-31 13:54:14.863
+858|@~613|@~Gang Rumah Sakit No. 0|@~Kotamobagu|@~Riau|@~2026-03-22 10:30:44.523
+859|@~8|@~Gang Dr. Djunjunan No. 917|@~Lhokseumawe|@~Sumatera Barat|@~2026-02-18 06:36:12.554
+860|@~388|@~Gg. Veteran No. 8|@~Pekalongan|@~Bali|@~2026-03-26 12:37:48.657
+861|@~717|@~Jalan Pasir Koja No. 538|@~Sabang|@~Kepulauan Bangka Belitung|@~2026-01-09 23:01:02.000
+862|@~131|@~Gg. Peta No. 1|@~Batu|@~Kepulauan Riau|@~2026-01-16 09:25:09.781
+863|@~422|@~Jalan Jend. Sudirman No. 16|@~Magelang|@~DKI Jakarta|@~2026-01-28 23:21:12.525
+864|@~208|@~Jalan Astana Anyar No. 982|@~Prabumulih|@~Sulawesi Barat|@~2026-01-27 03:56:28.841
+865|@~375|@~Jl. Pelajar Pejuang No. 00|@~Kendari|@~Kalimantan Tengah|@~2026-02-24 23:57:47.955
+866|@~466|@~Gg. Rajawali Timur No. 8|@~Tarakan|@~Jawa Barat|@~2026-03-16 03:03:09.826
+867|@~685|@~Jalan Kebonjati No. 3|@~Tarakan|@~Maluku|@~2026-01-26 04:36:59.621
+868|@~351|@~Gang Sadang Serang No. 0|@~Ternate|@~DI Yogyakarta|@~2026-02-27 07:55:30.879
+869|@~394|@~Jl. Ciumbuleuit No. 63|@~Kendari|@~Kalimantan Barat|@~2026-03-22 18:40:30.079
+870|@~148|@~Jalan Tebet Barat Dalam No. 2|@~Gorontalo|@~Banten|@~2026-02-04 14:40:04.313
+871|@~400|@~Gang M.T Haryono No. 372|@~Kota Administrasi Jakarta Pusat|@~Kalimantan Tengah|@~2026-02-05 15:52:00.113
+872|@~875|@~Jl. Rajawali Timur No. 43|@~Bandar Lampung|@~Jawa Barat|@~2026-02-06 16:12:57.280
+873|@~359|@~Gang Asia Afrika No. 168|@~Denpasar|@~Kalimantan Utara|@~2026-03-09 00:12:56.138
+874|@~923|@~Gang Cihampelas No. 0|@~Jayapura|@~Kalimantan Timur|@~2026-01-08 06:13:32.450
+875|@~447|@~Gang Laswi No. 81|@~Singkawang|@~Sumatera Barat|@~2026-03-07 21:18:12.547
+876|@~115|@~Jalan Otto Iskandardinata No. 911|@~Depok|@~Bengkulu|@~2026-02-19 03:41:39.398
+877|@~513|@~Gang Veteran No. 792|@~Cirebon|@~Kalimantan Utara|@~2026-01-09 12:58:12.309
+878|@~564|@~Gang Kiaracondong No. 467|@~Prabumulih|@~Aceh|@~2026-03-08 21:16:07.254
+879|@~318|@~Gg. Gardujati No. 4|@~Makassar|@~DKI Jakarta|@~2026-02-02 12:12:43.444
+880|@~5|@~Jalan Gedebage Selatan No. 1|@~Denpasar|@~Jambi|@~2026-02-13 22:08:56.943
+881|@~340|@~Jalan Jend. A. Yani No. 69|@~Jayapura|@~Kalimantan Selatan|@~2026-01-13 06:42:24.261
+882|@~305|@~Gg. Kutai No. 83|@~Binjai|@~Maluku|@~2026-01-20 10:52:17.408
+883|@~476|@~Jalan Moch. Toha No. 3|@~Tidore Kepulauan|@~Papua Barat|@~2026-01-18 17:37:02.748
+884|@~362|@~Jalan Suryakencana No. 42|@~Tidore Kepulauan|@~Sumatera Utara|@~2026-01-31 08:45:27.323
+885|@~202|@~Gg. Abdul Muis No. 61|@~Tual|@~Jawa Barat|@~2026-03-14 08:38:39.467
+886|@~909|@~Gang Laswi No. 4|@~Palembang|@~Kepulauan Bangka Belitung|@~2026-03-25 11:21:03.531
+887|@~520|@~Jl. Surapati No. 1|@~Banda Aceh|@~Sumatera Utara|@~2026-02-15 17:36:23.207
+888|@~735|@~Gg. Sukajadi No. 7|@~Malang|@~Sulawesi Utara|@~2026-02-20 10:57:20.595
+889|@~860|@~Gang Dipenogoro No. 3|@~Sungai Penuh|@~Lampung|@~2026-02-20 23:23:19.178
+890|@~256|@~Gg. Rajawali Barat No. 86|@~Tual|@~Kepulauan Riau|@~2026-02-21 02:40:50.771
+891|@~581|@~Gang Kapten Muslihat No. 8|@~Salatiga|@~Bengkulu|@~2026-01-09 06:59:17.885
+892|@~527|@~Jalan Indragiri No. 18|@~Mataram|@~Sulawesi Utara|@~2026-01-24 16:43:41.133
+893|@~338|@~Jl. Pacuan Kuda No. 857|@~Prabumulih|@~Jambi|@~2026-01-08 12:06:06.319
+894|@~497|@~Gang Abdul Muis No. 74|@~Pangkalpinang|@~Kalimantan Tengah|@~2026-04-01 07:50:58.745
+895|@~813|@~Gang Wonoayu No. 7|@~Solok|@~Sulawesi Utara|@~2026-01-30 07:09:21.391
+896|@~414|@~Gg. S. Parman No. 434|@~Tual|@~Sulawesi Tenggara|@~2026-02-19 21:32:50.001
+897|@~863|@~Jalan Asia Afrika No. 29|@~Lhokseumawe|@~Aceh|@~2026-01-09 16:47:22.461
+898|@~281|@~Gang Sukabumi No. 142|@~Cimahi|@~Sulawesi Barat|@~2026-01-21 04:03:35.695
+899|@~823|@~Gg. Raya Ujungberung No. 912|@~Tebingtinggi|@~Kalimantan Timur|@~2026-03-27 13:29:39.854
+900|@~553|@~Jl. Sukajadi No. 392|@~Tangerang Selatan|@~DI Yogyakarta|@~2026-01-31 13:07:36.997
+901|@~551|@~Gg. Tubagus Ismail No. 7|@~Madiun|@~Kalimantan Utara|@~2026-01-12 08:10:38.076
+902|@~933|@~Gang Peta No. 712|@~Lhokseumawe|@~Sulawesi Barat|@~2026-02-14 11:53:52.656
+903|@~655|@~Gang Sukajadi No. 442|@~Pontianak|@~Nusa Tenggara Timur|@~2026-02-26 08:44:52.763
+904|@~372|@~Gang Ciumbuleuit No. 84|@~Sabang|@~Jawa Tengah|@~2026-03-05 05:14:13.495
+905|@~247|@~Jalan Kendalsari No. 0|@~Singkawang|@~Kepulauan Bangka Belitung|@~2026-02-08 14:36:56.851
+906|@~562|@~Gg. BKR No. 39|@~Semarang|@~Kepulauan Bangka Belitung|@~2026-03-18 04:12:32.532
+907|@~237|@~Jalan Stasiun Wonokromo No. 63|@~Tanjungbalai|@~Kepulauan Riau|@~2026-01-25 14:32:47.909
+908|@~844|@~Jl. Cihampelas No. 533|@~Cirebon|@~Maluku Utara|@~2026-02-28 18:30:41.758
+909|@~307|@~Jalan Ciwastra No. 964|@~Padangpanjang|@~Kalimantan Timur|@~2026-03-21 10:24:15.132
+910|@~491|@~Jl. Kutisari Selatan No. 73|@~Meulaboh|@~Kalimantan Timur|@~2026-01-07 00:22:34.438
+911|@~265|@~Jl. Peta No. 688|@~Kotamobagu|@~Kalimantan Utara|@~2026-01-26 02:23:09.745
+912|@~611|@~Gang Raya Setiabudhi No. 969|@~Makassar|@~Sumatera Barat|@~2026-01-09 19:39:26.751
+913|@~679|@~Gang Dr. Djunjunan No. 7|@~Tidore Kepulauan|@~Sulawesi Tengah|@~2026-01-02 02:18:13.439
+914|@~30|@~Gg. Gardujati No. 468|@~Ambon|@~Kalimantan Tengah|@~2026-01-31 05:33:24.044
+915|@~358|@~Gang Surapati No. 35|@~Tidore Kepulauan|@~Banten|@~2026-03-23 22:48:47.173
+916|@~505|@~Gg. Moch. Ramdan No. 4|@~Parepare|@~Sulawesi Utara|@~2026-02-06 17:47:01.243
+917|@~570|@~Gang KH Amin Jasuta No. 808|@~Bima|@~Kepulauan Bangka Belitung|@~2026-01-30 13:04:50.945
+918|@~667|@~Jl. Rungkut Industri No. 223|@~Kediri|@~Sulawesi Tenggara|@~2026-03-29 15:07:11.966
+919|@~878|@~Jalan Ir. H. Djuanda No. 26|@~Surabaya|@~Jawa Barat|@~2026-02-15 18:48:12.214
+920|@~870|@~Jl. KH Amin Jasuta No. 74|@~Padang Sidempuan|@~Papua|@~2026-01-23 11:20:33.881
+921|@~59|@~Gang Erlangga No. 616|@~Tomohon|@~Kalimantan Selatan|@~2026-03-27 23:18:52.251
+922|@~577|@~Jl. Cihampelas No. 9|@~Prabumulih|@~Aceh|@~2026-03-04 07:17:32.224
+923|@~731|@~Jl. Cikutra Timur No. 7|@~Bekasi|@~Kepulauan Riau|@~2026-03-15 23:58:34.994
+924|@~668|@~Jl. Wonoayu No. 78|@~Ternate|@~Papua Barat|@~2026-02-28 14:21:23.509
+925|@~896|@~Gang Jamika No. 656|@~Padang Sidempuan|@~Sumatera Barat|@~2026-03-08 14:38:46.022
+926|@~116|@~Jl. Waringin No. 3|@~Tebingtinggi|@~Jawa Tengah|@~2026-02-05 21:07:30.228
+927|@~364|@~Jalan Pasir Koja No. 495|@~Palembang|@~Kalimantan Barat|@~2026-01-25 01:25:57.489
+928|@~139|@~Jalan Soekarno Hatta No. 06|@~Sorong|@~Riau|@~2026-03-01 23:01:38.740
+929|@~88|@~Gg. Tubagus Ismail No. 164|@~Palembang|@~Jawa Tengah|@~2026-01-13 05:23:23.208
+930|@~787|@~Gg. Setiabudhi No. 85|@~Palembang|@~DI Yogyakarta|@~2026-02-11 18:33:32.017
+931|@~612|@~Jl. Soekarno Hatta No. 79|@~Prabumulih|@~Kalimantan Utara|@~2026-03-13 20:49:40.556
+932|@~43|@~Jalan Dr. Djunjunan No. 744|@~Probolinggo|@~Riau|@~2026-03-23 12:03:52.409
+933|@~94|@~Jl. Peta No. 4|@~Pematangsiantar|@~DI Yogyakarta|@~2026-01-09 13:55:02.866
+934|@~647|@~Gang Gedebage Selatan No. 49|@~Parepare|@~Papua|@~2026-03-05 14:34:10.789
+935|@~143|@~Jalan Ir. H. Djuanda No. 437|@~Malang|@~Sulawesi Tenggara|@~2026-02-12 13:51:15.929
+936|@~248|@~Gang Laswi No. 739|@~Palangkaraya|@~Sumatera Selatan|@~2026-04-01 01:10:38.372
+937|@~525|@~Gang Erlangga No. 3|@~Kota Administrasi Jakarta Utara|@~Banten|@~2026-02-19 08:21:31.231
+938|@~432|@~Gg. Moch. Ramdan No. 16|@~Tomohon|@~Kalimantan Selatan|@~2026-03-26 19:58:43.134
+939|@~635|@~Gang Sukajadi No. 708|@~Batam|@~Sulawesi Tengah|@~2026-01-25 01:25:42.896
+940|@~308|@~Gang Wonoayu No. 023|@~Sibolga|@~Nusa Tenggara Barat|@~2026-03-11 08:28:22.175
+941|@~259|@~Gang Yos Sudarso No. 753|@~Tomohon|@~Sulawesi Tenggara|@~2026-02-03 00:21:47.468
+942|@~78|@~Jl. H.J Maemunah No. 34|@~Bandar Lampung|@~Papua Barat|@~2026-01-13 02:05:49.948
+943|@~228|@~Jl. Monginsidi No. 93|@~Banjar|@~Kalimantan Timur|@~2026-02-27 03:07:25.320
+944|@~599|@~Gg. Cempaka No. 54|@~Bontang|@~Sumatera Utara|@~2026-01-05 15:56:45.576
+945|@~72|@~Gang Cikapayang No. 818|@~Makassar|@~Kalimantan Selatan|@~2026-03-13 17:52:14.127
+946|@~767|@~Jalan Suniaraja No. 42|@~Solok|@~Bali|@~2026-01-20 07:30:40.100
+947|@~373|@~Jl. Pasir Koja No. 973|@~Sibolga|@~DI Yogyakarta|@~2026-01-01 12:07:03.722
+948|@~809|@~Jl. Rajawali Timur No. 359|@~Cirebon|@~Sulawesi Utara|@~2026-01-15 18:07:17.958
+949|@~672|@~Jl. Astana Anyar No. 2|@~Banjar|@~Jawa Barat|@~2026-01-31 19:57:16.407
+950|@~978|@~Jl. Pasir Koja No. 7|@~Denpasar|@~Riau|@~2026-01-12 19:29:46.218
+951|@~429|@~Gg. Gardujati No. 011|@~Tanjungbalai|@~Riau|@~2026-03-16 07:05:39.150
+952|@~832|@~Jl. Cempaka No. 92|@~Tangerang|@~Kalimantan Barat|@~2026-01-22 10:56:48.745
+953|@~856|@~Gg. Kutai No. 2|@~Sibolga|@~Jawa Tengah|@~2026-01-28 07:44:23.410
+954|@~405|@~Jalan K.H. Wahid Hasyim No. 0|@~Kota Administrasi Jakarta Selatan|@~Maluku Utara|@~2026-03-30 07:28:35.549
+955|@~73|@~Jalan Ir. H. Djuanda No. 939|@~Bau-Bau|@~Papua|@~2026-01-20 04:55:05.498
+956|@~606|@~Gg. Ir. H. Djuanda No. 09|@~Makassar|@~Sulawesi Tenggara|@~2026-03-15 19:23:27.696
+957|@~529|@~Gang Suniaraja No. 4|@~Tomohon|@~Sumatera Selatan|@~2026-01-22 01:01:06.535
+958|@~567|@~Jalan Pelajar Pejuang No. 2|@~Langsa|@~Kepulauan Bangka Belitung|@~2026-01-09 18:27:56.944
+959|@~908|@~Jalan PHH. Mustofa No. 1|@~Singkawang|@~Aceh|@~2026-03-02 17:43:38.733
+960|@~374|@~Gg. Suryakencana No. 28|@~Medan|@~Sumatera Utara|@~2026-03-11 16:10:06.198
+961|@~314|@~Gang Kapten Muslihat No. 029|@~Pasuruan|@~Maluku Utara|@~2026-02-10 19:27:13.598
+962|@~284|@~Gang Kiaracondong No. 382|@~Surabaya|@~Jawa Timur|@~2026-02-18 09:54:31.117
+963|@~746|@~Gg. Lembong No. 52|@~Bekasi|@~Kalimantan Timur|@~2026-02-14 04:58:05.955
+964|@~231|@~Gg. Antapani Lama No. 993|@~Palu|@~Aceh|@~2026-01-26 10:39:54.639
+965|@~282|@~Gang W.R. Supratman No. 71|@~Pekalongan|@~Sumatera Barat|@~2026-02-26 12:14:54.988
+966|@~666|@~Gg. Jamika No. 071|@~Langsa|@~Papua|@~2026-01-01 08:56:59.507
+967|@~275|@~Jalan Abdul Muis No. 294|@~Pariaman|@~Sumatera Barat|@~2026-03-03 15:11:59.924
+968|@~975|@~Gg. W.R. Supratman No. 670|@~Salatiga|@~Kalimantan Timur|@~2026-02-27 09:26:41.295
+969|@~303|@~Gang Cihampelas No. 6|@~Bandung|@~Lampung|@~2026-03-16 08:21:26.782
+970|@~154|@~Gang Pelajar Pejuang No. 09|@~Kota Administrasi Jakarta Selatan|@~Sulawesi Utara|@~2026-02-20 16:44:01.140
+971|@~235|@~Gang Yos Sudarso No. 5|@~Tarakan|@~Sulawesi Barat|@~2026-03-20 17:23:45.914
+972|@~650|@~Jl. Pasirkoja No. 8|@~Bontang|@~DI Yogyakarta|@~2026-03-10 22:34:58.734
+973|@~989|@~Jl. Tubagus Ismail No. 3|@~Cirebon|@~Riau|@~2026-03-06 22:17:55.045
+974|@~401|@~Jl. Cikapayang No. 36|@~Kota Administrasi Jakarta Timur|@~Aceh|@~2026-03-16 07:14:55.241
+975|@~176|@~Jl. Raya Ujungberung No. 165|@~Bengkulu|@~Kepulauan Bangka Belitung|@~2026-01-16 00:02:15.746
+976|@~620|@~Jalan S. Parman No. 82|@~Lhokseumawe|@~Nusa Tenggara Barat|@~2026-02-05 13:37:06.281
+977|@~17|@~Jl. Otto Iskandardinata No. 53|@~Ambon|@~Jawa Barat|@~2026-03-12 13:49:29.086
+978|@~914|@~Gang Medokan Ayu No. 3|@~Serang|@~Jawa Barat|@~2026-02-08 19:11:52.531
+979|@~423|@~Gg. Kebonjati No. 5|@~Sawahlunto|@~Maluku Utara|@~2026-02-11 11:53:27.249
+980|@~65|@~Gang Pacuan Kuda No. 26|@~Sukabumi|@~Lampung|@~2026-03-14 11:40:07.277
+981|@~201|@~Gg. Jayawijaya No. 51|@~Bekasi|@~Sulawesi Tenggara|@~2026-03-19 16:02:20.786
+982|@~396|@~Gg. Kapten Muslihat No. 60|@~Sawahlunto|@~Kalimantan Timur|@~2026-01-25 15:55:08.947
+983|@~591|@~Jalan Dipenogoro No. 3|@~Kota Administrasi Jakarta Pusat|@~Kalimantan Utara|@~2026-03-05 18:10:59.663
+984|@~103|@~Gg. M.H Thamrin No. 8|@~Malang|@~DKI Jakarta|@~2026-02-04 09:06:04.038
+985|@~962|@~Jl. Dipenogoro No. 533|@~Madiun|@~Jawa Barat|@~2026-01-28 15:09:37.523
+986|@~979|@~Jl. Jend. A. Yani No. 416|@~Bekasi|@~Sumatera Selatan|@~2026-01-24 22:18:43.139
+987|@~622|@~Jalan Surapati No. 3|@~Singkawang|@~Riau|@~2026-04-01 09:23:57.970
+988|@~682|@~Gang Jakarta No. 99|@~Kota Administrasi Jakarta Utara|@~Lampung|@~2026-02-24 12:29:10.849
+989|@~384|@~Gg. W.R. Supratman No. 91|@~Tegal|@~Jawa Timur|@~2026-02-12 23:07:31.654
+990|@~790|@~Jalan Joyoboyo No. 30|@~Serang|@~Jawa Tengah|@~2026-02-12 20:10:57.950
+991|@~328|@~Gg. Suryakencana No. 689|@~Lubuklinggau|@~Banten|@~2026-01-26 12:14:06.113
+992|@~779|@~Jl. Ir. H. Djuanda No. 4|@~Tebingtinggi|@~Gorontalo|@~2026-03-08 07:58:09.490
+993|@~543|@~Gang Rajawali Timur No. 803|@~Palangkaraya|@~Nusa Tenggara Timur|@~2026-03-08 22:38:00.382
+994|@~84|@~Gang Dipatiukur No. 322|@~Banjarmasin|@~Kepulauan Riau|@~2026-03-10 06:43:03.765
+995|@~437|@~Gg. Abdul Muis No. 9|@~Pontianak|@~Papua Barat|@~2026-01-27 11:17:29.171
+996|@~689|@~Jalan Veteran No. 91|@~Padang|@~Papua|@~2026-02-21 13:13:20.787
+997|@~170|@~Gg. Ciumbuleuit No. 2|@~Batam|@~Jawa Barat|@~2026-03-21 01:37:31.252
+998|@~484|@~Jalan Bangka Raya No. 4|@~Solok|@~Jawa Barat|@~2026-02-20 22:36:52.591
+999|@~470|@~Gg. Setiabudhi No. 02|@~Denpasar|@~Jawa Barat|@~2026-03-22 13:49:54.639
+1000|@~150|@~Jalan Kendalsari No. 34|@~Kotamobagu|@~Sulawesi Selatan|@~2026-01-03 14:01:45.088

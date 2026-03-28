@@ -1,0 +1,8 @@
+apache-airflow==3.1.8
+apache-airflow-providers-mysql
+pandas
+sqlalchemy
+mysqlclient
+psycopg2-binary==2.9.9
+time
+
