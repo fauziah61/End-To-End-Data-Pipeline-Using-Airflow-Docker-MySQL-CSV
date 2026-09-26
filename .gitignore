@@ -1,10 +1,12 @@
-# Environment
 .env
 
-# Python
+# Python cache files
 __pycache__/
 *.py[cod]
 
-# Airflow logs
-logs/
+# Logs
 *.log
+
+# Airflow runtime
+logs/
+

@@ -1,9 +1,18 @@
+import os
 from airflow import DAG
 from airflow.decorators import task
-from airflow.providers.mysql.hooks.mysql import MySqlHook
 from datetime import datetime, timedelta
 
-MYSQL_CONN_ID = 'mysql-localhost'
+from spark_mysql_utils import (
+    create_spark_session,
+    get_mysql_jdbc_config,
+    prepare_target_table,
+    uppercase_columns,
+)
+
+
+MYSQL_CONN_ID = os.getenv('MYSQL_CONN_ID', 'mysql-localhost')
+TARGET_TABLE = 'MART_CUST_SERVICE_PRIO_DATAMART'
 
 default_args = {
     'owner': 'airflow',
@@ -13,17 +22,68 @@ default_args = {
 
 @task
 def create_cust_service_prio_datamart():
-    try:
-        mysql_hook = MySqlHook(mysql_conn_id=MYSQL_CONN_ID)
-        conn = mysql_hook.get_conn()
-        conn.ping()
-        cursor = conn.cursor()
-    except Exception as e:
-        raise ConnectionError(f"Gagal konek ke MySQL: {str(e)}")
+    from pyspark.sql import functions as F
+
+    mysql_hook, jdbc_url, jdbc_properties = get_mysql_jdbc_config(MYSQL_CONN_ID)
+    spark = create_spark_session('customer-service-priority-datamart')
 
     try:
-        # DDL
-        cursor.execute("""
+        after_sales_df = uppercase_columns(
+            spark.read.jdbc(
+                url=jdbc_url,
+                table='TXF_AFTER_SALES',
+                properties=jdbc_properties,
+            )
+        )
+        customers_df = uppercase_columns(
+            spark.read.jdbc(
+                url=jdbc_url,
+                table='TXF_CUSTOMERS',
+                properties=jdbc_properties,
+            )
+        )
+        customer_address_df = uppercase_columns(
+            spark.read.jdbc(
+                url=jdbc_url,
+                table='TXF_CUSTOMER_ADDRESS',
+                properties=jdbc_properties,
+            )
+        )
+
+        service_count_df = (
+            after_sales_df
+            .withColumn('PERIODE', F.year('SERVICE_DATE'))
+            .groupBy('PERIODE', 'VIN', 'CUSTOMER_ID')
+            .agg(F.count(F.lit(1)).cast('int').alias('COUNT_SERVICE'))
+        )
+
+        customer_lookup_df = customers_df.select(
+            F.col('ID').alias('CUSTOMER_ID'),
+            F.col('NAME').alias('CUSTOMER_NAME'),
+        )
+        address_lookup_df = customer_address_df.select('CUSTOMER_ID', 'ADDRESS')
+
+        customer_service_datamart_df = (
+            service_count_df
+            .join(customer_lookup_df, on='CUSTOMER_ID', how='inner')
+            .join(address_lookup_df, on='CUSTOMER_ID', how='left')
+            .withColumn(
+                'PRIORITY',
+                F.when(F.col('COUNT_SERVICE') > 10, F.lit('HIGH'))
+                .when(F.col('COUNT_SERVICE').between(5, 10), F.lit('MED'))
+                .otherwise(F.lit('LOW')),
+            )
+            .select(
+                'PERIODE',
+                'VIN',
+                'CUSTOMER_NAME',
+                'ADDRESS',
+                'COUNT_SERVICE',
+                'PRIORITY',
+            )
+        )
+
+        prepare_target_table(mysql_hook, """
         CREATE TABLE IF NOT EXISTS `MART_CUST_SERVICE_PRIO_DATAMART` (
             periode INT,
             vin VARCHAR(50),
@@ -33,57 +93,25 @@ def create_cust_service_prio_datamart():
             priority VARCHAR(10),
             LOAD_TIMESTAMP DATETIME(6) DEFAULT CURRENT_TIMESTAMP(6)
         );
-        """)
+        """, TARGET_TABLE)
 
-        # 2. Truncate table (hapus semua data sebelumnya) -> TYPE LOAD TRUNCATE INSERT
-        cursor.execute("TRUNCATE TABLE MART_CUST_SERVICE_PRIO_DATAMART;")
-
-        # 3. Insert hasil agregasi
-        cursor.execute("""
-        INSERT INTO MART_CUST_SERVICE_PRIO_DATAMART (PERIODE, VIN, CUSTOMER_NAME, ADDRESS, COUNT_SERVICE, PRIORITY)
-        select
-            sc.periode,
-            sc.vin,
-            c.name as customer_name,
-            ca.address,
-            sc.count_service,
-            case
-                when sc.count_service > 10 then 'HIGH'
-                when sc.count_service between 5 and 10 then 'MED'
-                else 'LOW'
-            end as priority
-        from
-            (
-            select
-                year(service_date) as periode,
-                vin,
-                customer_id,
-                COUNT(*) as count_service
-            from
-                `mysql-dwh-dev`.txf_after_sales
-            group by
-                year(service_date),
-                vin,
-                customer_id
-        ) sc
-        join `mysql-dwh-dev`.txf_customers c
-            on
-            sc.customer_id = c.id
-        left join `mysql-dwh-dev`.txf_customer_address ca
-            on
-            sc.customer_id = ca.customer_id;
-        """)
-
-        conn.commit()
-        print("MART_CUST_SERVICE_PRIO_DATAMART successfully created and loaded")
+        (
+            customer_service_datamart_df.write
+            .mode('append')
+            .option('batchsize', os.getenv('SPARK_JDBC_BATCH_SIZE', '1000'))
+            .jdbc(
+                url=jdbc_url,
+                table=TARGET_TABLE,
+                properties=jdbc_properties,
+            )
+        )
+        print(f"{TARGET_TABLE} successfully created and loaded with PySpark")
 
     except Exception as e:
-        conn.rollback()
         raise RuntimeError(f"Gagal membuat datamart: {e}")
 
     finally:
-        cursor.close()
-        conn.close()
+        spark.stop()
 
 
 # DAG
