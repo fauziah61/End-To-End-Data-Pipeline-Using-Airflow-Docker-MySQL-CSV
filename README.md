@@ -2,16 +2,6 @@
 
 Tools: Airflow 3.1.8, Docker, Spark, MySQL Local, VS Code (IDE)
 
-<<<<<<< HEAD
-<p align="center">
-    <img width="958" src="https://github.com/user-attachments/assets/154df42d-72e3-49ea-ab1e-99cf3a66d493"><br>
-    About The Project 
-   </p>
-
-PPT dapat diakses di folder PPT atau lewat link canva berikut: https://canva.link/t7qcvhtofkyou03
-
-Script python ada di folder dags
-=======
 ![About The Project](image.png)
 
 <p align="center">About The Project</p>
@@ -80,4 +70,4 @@ docker compose down
 - Airflow UI: `http://localhost:8090`
 - Spark Master UI: `http://localhost:8081`
 - Spark Worker UI: `http://localhost:8082`
->>>>>>> spark
+
