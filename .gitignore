@@ -1,0 +1,10 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Airflow logs
+logs/
+*.log
