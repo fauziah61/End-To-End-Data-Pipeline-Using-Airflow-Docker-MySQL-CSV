@@ -44,13 +44,16 @@
 #
 # Feel free to modify this file to suit your needs.
 ---
+x-project-image:
+  &project-image
+  image: ${AIRFLOW_IMAGE_NAME:-airflow-spark:3.1.8}
+  build:
+    context: .
+    dockerfile: dockerfile
+
 x-airflow-common:
   &airflow-common
-  # In order to add custom dependencies or upgrade provider distributions you can use your extended image.
-  # Comment the image line, place your Dockerfile in the directory where you placed the docker-compose.yaml
-  # and uncomment the "build" line below, Then run `docker-compose build` to build the images.
-  image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:3.1.8}
-  # build: .
+  <<: *project-image
   env_file:
     - ${ENV_FILE_PATH:-.env}
   environment:
@@ -76,6 +79,11 @@ x-airflow-common:
     _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
     # The following line can be used to set a custom config file, stored in the local config folder
     AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
+    MYSQL_CONN_ID: ${MYSQL_CONN_ID:-mysql-localhost}
+    SPARK_MASTER_URL: ${SPARK_MASTER_URL:-spark://spark-master:7077}
+    SPARK_JDBC_JAR: ${SPARK_JDBC_JAR:-/opt/spark-jars/mysql-connector-j.jar}
+    SPARK_JDBC_BATCH_SIZE: ${SPARK_JDBC_BATCH_SIZE:-1000}
+    PYSPARK_PYTHON: /usr/local/bin/python
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
@@ -89,6 +97,14 @@ x-airflow-common:
       condition: service_healthy
     postgres:
       condition: service_healthy
+
+x-spark-common:
+  &spark-common
+  <<: *project-image
+  environment:
+    JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
+    PYSPARK_PYTHON: /usr/local/bin/python
+  restart: always
 
 services:
   postgres:
@@ -120,11 +136,56 @@ services:
       start_period: 30s
     restart: always
 
+  spark-master:
+    <<: *spark-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        SPARK_HOME=$$(python -c 'import os, pyspark; print(os.path.dirname(pyspark.__file__))')
+        exec "$${SPARK_HOME}/bin/spark-class" org.apache.spark.deploy.master.Master \
+          --host spark-master \
+          --port 7077 \
+          --webui-port 8080
+    ports:
+      - "7077:7077"
+      - "8081:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+
+  spark-worker:
+    <<: *spark-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        SPARK_HOME=$$(python -c 'import os, pyspark; print(os.path.dirname(pyspark.__file__))')
+        exec "$${SPARK_HOME}/bin/spark-class" org.apache.spark.deploy.worker.Worker \
+          --cores ${SPARK_WORKER_CORES:-2} \
+          --memory ${SPARK_WORKER_MEMORY:-1g} \
+          --webui-port 8081 \
+          spark://spark-master:7077
+    ports:
+      - "8082:8081"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8081"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+    depends_on:
+      spark-master:
+        condition: service_healthy
+
   airflow-apiserver:
     <<: *airflow-common
     command: api-server
     ports:
-      - "8080:8080"
+      - "${AIRFLOW_API_PORT:-8090}:8080"
     healthcheck:
       test: ["CMD", "curl", "--fail", "http://localhost:8080/api/v2/monitor/health"]
       interval: 30s
@@ -182,6 +243,7 @@ services:
       # Required to handle warm shutdown of the celery workers properly
       # See https://airflow.apache.org/docs/docker-stack/entrypoint.html#signal-propagation
       DUMB_INIT_SETSID: "0"
+      SPARK_DRIVER_HOST: ${SPARK_DRIVER_HOST:-airflow-worker}
     restart: always
     depends_on:
       <<: *airflow-common-depends-on
@@ -189,6 +251,8 @@ services:
         condition: service_healthy
       airflow-init:
         condition: service_completed_successfully
+      spark-worker:
+        condition: service_healthy
 
   airflow-triggerer:
     <<: *airflow-common

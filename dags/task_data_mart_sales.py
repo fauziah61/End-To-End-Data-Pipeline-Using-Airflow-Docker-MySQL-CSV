@@ -1,9 +1,17 @@
+import os
 from airflow import DAG
 from airflow.decorators import task
-from airflow.providers.mysql.hooks.mysql import MySqlHook
 from datetime import datetime, timedelta
 
-MYSQL_CONN_ID = 'mysql-localhost'
+from spark_mysql_utils import (
+    create_spark_session,
+    get_mysql_jdbc_config,
+    prepare_target_table,
+    uppercase_columns,
+)
+
+MYSQL_CONN_ID = os.getenv('MYSQL_CONN_ID', 'mysql-localhost')
+TARGET_TABLE = 'MART_SALES_DATAMART'
 
 default_args = {
     'owner': 'airflow',
@@ -13,17 +21,41 @@ default_args = {
 
 @task
 def create_sales_datamart():
-    try:
-        mysql_hook = MySqlHook(mysql_conn_id=MYSQL_CONN_ID)
-        conn = mysql_hook.get_conn()
-        conn.ping()
-        cursor = conn.cursor()
-    except Exception as e:
-        raise ConnectionError(f"Gagal konek ke MySQL: {str(e)}")
+    from pyspark.sql import functions as F
+    from pyspark.sql.types import DecimalType
+
+    mysql_hook, jdbc_url, jdbc_properties = get_mysql_jdbc_config(MYSQL_CONN_ID)
+    spark = create_spark_session('sales-datamart')
 
     try:
-        # DDL
-        cursor.execute("""
+        sales_df = uppercase_columns(
+            spark.read.jdbc(
+                url=jdbc_url,
+                table='TXF_SALES',
+                properties=jdbc_properties,
+            )
+        )
+
+        price = F.col('PRICE')
+        sales_datamart_df = (
+            sales_df
+            .withColumn('PERIODE', F.date_format(F.col('INVOICE_DATE'), 'yyyy-MM'))
+            .withColumn(
+                'CLASS',
+                F.when(price.between(100000000, 250000000), F.lit('LOW'))
+                .when(price.between(250000001, 400000000), F.lit('MEDIUM'))
+                .when(price > 400000000, F.lit('HIGH')),
+            )
+            .groupBy('PERIODE', 'CLASS', 'MODEL')
+            .agg(
+                F.sum('PRICE')
+                .cast(DecimalType(38, 5))
+                .alias('TOTAL')
+            )
+            .select('PERIODE', 'CLASS', 'MODEL', 'TOTAL')
+        )
+
+        prepare_target_table(mysql_hook, """
         CREATE TABLE IF NOT EXISTS `MART_SALES_DATAMART` (
             PERIODE VARCHAR(7) NOT NULL,
             CLASS VARCHAR(10),
@@ -32,38 +64,25 @@ def create_sales_datamart():
             LOAD_TIMESTAMP DATETIME(6) DEFAULT CURRENT_TIMESTAMP(6),
             PRIMARY KEY (PERIODE, CLASS, MODEL)
         );
-        """)
+        """, TARGET_TABLE)
 
-        # 2. Truncate table (hapus semua data sebelumnya) -> TYPE LOAD TRUNCATE INSERT
-        cursor.execute("TRUNCATE TABLE MART_SALES_DATAMART;")
-
-        # 3. Insert hasil agregasi
-        cursor.execute("""
-        INSERT INTO MART_SALES_DATAMART (PERIODE, CLASS, MODEL, TOTAL)
-        SELECT
-            DATE_FORMAT(INVOICE_DATE, '%Y-%m') AS PERIODE,
-            CASE
-                WHEN PRICE BETWEEN 100000000 AND 250000000 THEN 'LOW'
-                WHEN PRICE BETWEEN 250000001 AND 400000000 THEN 'MEDIUM'
-                WHEN PRICE > 400000000 THEN 'HIGH'
-            END AS CLASS,
-            MODEL,
-            SUM(PRICE) AS TOTAL
-        FROM `mysql-dwh-dev`.TXF_SALES
-        GROUP BY DATE_FORMAT(INVOICE_DATE, '%Y-%m'), CLASS, MODEL
-        ORDER BY PERIODE, CLASS;
-        """)
-
-        conn.commit()
-        print("MART_SALES_DATAMART successfully created and loaded")
+        (
+            sales_datamart_df.write
+            .mode('append')
+            .option('batchsize', os.getenv('SPARK_JDBC_BATCH_SIZE', '1000'))
+            .jdbc(
+                url=jdbc_url,
+                table=TARGET_TABLE,
+                properties=jdbc_properties,
+            )
+        )
+        print(f"{TARGET_TABLE} successfully created and loaded with PySpark")
 
     except Exception as e:
-        conn.rollback()
         raise RuntimeError(f"Gagal membuat datamart: {e}")
 
     finally:
-        cursor.close()
-        conn.close()
+        spark.stop()
 
 
 # DAG
